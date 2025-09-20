@@ -2176,5 +2176,8 @@
   <CannotAcceptQuestFromLayer>Невозможно принять задание {GERUND} {lookup: {LAYER}; Case; 5}.</CannotAcceptQuestFromLayer>
   <!-- EN: Cannot accept this quest without a permanent colony. -->
   <CannotAcceptQuestNoMap>Невозможно принять задание без постоянного поселения.</CannotAcceptQuestNoMap>
+
+  <!-- EN: {0} of {1} -->
+  <GuildTradeShipName>TODO</GuildTradeShipName>
   
 </LanguageData>
