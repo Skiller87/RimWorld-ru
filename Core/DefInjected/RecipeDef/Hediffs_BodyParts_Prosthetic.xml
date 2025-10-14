@@ -4,57 +4,99 @@
   <!-- EN: install cochlear implant -->
   <InstallCochlearImplant.label>установить кохлеарный имплант</InstallCochlearImplant.label>
   <!-- EN: Install a cochlear implant. -->
-  <InstallCochlearImplant.description>Установить кохлеарный имплант.</InstallCochlearImplant.description>
+  <InstallCochlearImplant.description>Установите кохлеарный имплант.</InstallCochlearImplant.description>
   <!-- EN: Installing cochlear implant. -->
-  <InstallCochlearImplant.jobString>установить кохлеарный имплант</InstallCochlearImplant.jobString>
+  <InstallCochlearImplant.jobString>Устанавливает кохлеарный имплант</InstallCochlearImplant.jobString>
   
   <!-- EN: install joywire -->
-  <InstallJoywire.label>установить чип счастья</InstallJoywire.label>
+  <InstallJoywire.label>вживить чип счастья</InstallJoywire.label>
   <!-- EN: Install a joywire. -->
-  <InstallJoywire.description>Установить чип счастья.</InstallJoywire.description>
+  <InstallJoywire.description>Вживите чип счастья.</InstallJoywire.description>
   <!-- EN: Installing joywire. -->
-  <InstallJoywire.jobString>Устанавливает чип счастья</InstallJoywire.jobString>
+  <InstallJoywire.jobString>Вживляет чип счастья</InstallJoywire.jobString>
   
   <!-- EN: install painstopper -->
-  <InstallPainstopper.label>установить чип обезболивания</InstallPainstopper.label>
+  <InstallPainstopper.label>вживить чип обезболивания</InstallPainstopper.label>
   <!-- EN: Install a painstopper. -->
-  <InstallPainstopper.description>Установить чип обезболивания.</InstallPainstopper.description>
+  <InstallPainstopper.description>Вживите чип обезболивания.</InstallPainstopper.description>
   <!-- EN: Installing painstopper. -->
-  <InstallPainstopper.jobString>Устанавливает чип обезболивания</InstallPainstopper.jobString>
+  <InstallPainstopper.jobString>Вживляет чип обезболивания</InstallPainstopper.jobString>
   
   <!-- EN: install power claw -->
-  <InstallPowerClaw.label>установить силовые когти</InstallPowerClaw.label>
+  <InstallPowerClaw.label>вживить силовые когти</InstallPowerClaw.label>
   <!-- EN: Install a power claw. -->
-  <InstallPowerClaw.description>Установить силовые когти.</InstallPowerClaw.description>
+  <InstallPowerClaw.description>Вживите силовые когти.</InstallPowerClaw.description>
   <!-- EN: Installing power claw. -->
-  <InstallPowerClaw.jobString>Устанавливает силовые когти</InstallPowerClaw.jobString>
+  <InstallPowerClaw.jobString>Вживляет силовые когти</InstallPowerClaw.jobString>
   
   <!-- EN: install prosthetic arm -->
   <InstallSimpleProstheticArm.label>установить простой протез руки</InstallSimpleProstheticArm.label>
   <!-- EN: Install a prosthetic arm. -->
-  <InstallSimpleProstheticArm.description>Установить простой протез руки.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.description>Установите простой протез руки.</InstallSimpleProstheticArm.description>
   <!-- EN: Installing prosthetic arm. -->
   <InstallSimpleProstheticArm.jobString>Устанавливает простой протез руки</InstallSimpleProstheticArm.jobString>
   
   <!-- EN: install prosthetic heart -->
-  <InstallSimpleProstheticHeart.label>имплантировать простой кардиопротез</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.label>установить простой кардиопротез</InstallSimpleProstheticHeart.label>
   <!-- EN: Install a prosthetic heart. -->
-  <InstallSimpleProstheticHeart.description>Имплантировать простой кардиопротез.</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.description>Установите простой кардиопротез.</InstallSimpleProstheticHeart.description>
   <!-- EN: Installing prosthetic heart. -->
-  <InstallSimpleProstheticHeart.jobString>Имплантирует простой кардиопротез</InstallSimpleProstheticHeart.jobString>
+  <InstallSimpleProstheticHeart.jobString>Устанавливает простой кардиопротез</InstallSimpleProstheticHeart.jobString>
   
   <!-- EN: install prosthetic leg -->
   <InstallSimpleProstheticLeg.label>установить простой протез ноги</InstallSimpleProstheticLeg.label>
   <!-- EN: Install a prosthetic leg. -->
-  <InstallSimpleProstheticLeg.description>Установить простой протез ноги.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.description>Установите простой протез ноги.</InstallSimpleProstheticLeg.description>
   <!-- EN: Installing prosthetic leg. -->
   <InstallSimpleProstheticLeg.jobString>Устанавливает простой протез ноги</InstallSimpleProstheticLeg.jobString>
   
+    <!-- EN: remove cochlear implant -->
+  <!-- <RemoveCochlearImplant.label>удалить кохлеарный имплант</RemoveCochlearImplant.label> -->
+  <!-- EN: Remove a cochlear implant. -->
+  <!-- <RemoveCochlearImplant.description>Удалите кохлеарный имплант.</RemoveCochlearImplant.description> -->
+  <!-- EN: Removing cochlear implant. -->
+  <!-- <RemoveCochlearImplant.jobString>Удаляет кохлеарный имплант</RemoveCochlearImplant.jobString> -->
+  
+  <!-- EN: remove joywire -->
+  <!-- <RemoveJoywire.label>удалить чип счастья</RemoveJoywire.label> -->
+  <!-- EN: Remove a joywire. -->
+  <!-- <RemoveJoywire.description>Удалите чип счастья.</RemoveJoywire.description> -->
+  <!-- EN: Removing joywire. -->
+  <!-- <RemoveJoywire.jobString>Удаляет чип счастья</RemoveJoywire.jobString> -->
+  
   <!-- EN: remove painstopper -->
   <RemovePainstopper.label>удалить чип обезболивания</RemovePainstopper.label>
-  <!-- EN: Remove the painstopper. -->
-  <RemovePainstopper.description>Удалить чип обезболивания.</RemovePainstopper.description>
+  <!-- EN: Remove a painstopper. -->
+  <RemovePainstopper.description>Удалите чип обезболивания.</RemovePainstopper.description>
   <!-- EN: Removing painstopper. -->
   <RemovePainstopper.jobString>Удаляет чип обезболивания</RemovePainstopper.jobString>
+  
+  <!-- EN: remove power claw -->
+  <!-- <RemovePowerClaw.label>удалить силовые когти</RemovePowerClaw.label> -->
+  <!-- EN: Remove a power claw. -->
+  <!-- <RemovePowerClaw.description>Удалите силовые когти.</RemovePowerClaw.description> -->
+  <!-- EN: Removing power claw. -->
+  <!-- <RemovePowerClaw.jobString>Удаляет силовые когти</RemovePowerClaw.jobString> -->
+  
+  <!-- EN: remove prosthetic arm -->
+  <!-- <RemoveSimpleProstheticArm.label>удалить простой протез руки</RemoveSimpleProstheticArm.label> -->
+  <!-- EN: Remove a prosthetic arm. -->
+  <!-- <RemoveSimpleProstheticArm.description>Удалите простой протез руки.</RemoveSimpleProstheticArm.description> -->
+  <!-- EN: Removing prosthetic arm. -->
+  <!-- <RemoveSimpleProstheticArm.jobString>Удаляет простой протез руки</RemoveSimpleProstheticArm.jobString> -->
+  
+  <!-- EN: remove prosthetic heart -->
+  <!-- <RemoveSimpleProstheticHeart.label>удалить простой кардиопротез</RemoveSimpleProstheticHeart.label> -->
+  <!-- EN: Remove a prosthetic heart. -->
+  <!-- <RemoveSimpleProstheticHeart.description>Удалите простой кардиопротез.</RemoveSimpleProstheticHeart.description> -->
+  <!-- EN: Removing prosthetic heart. -->
+  <!-- <RemoveSimpleProstheticHeart.jobString>Удаляет простой кардиопротез</RemoveSimpleProstheticHeart.jobString> -->
+  
+  <!-- EN: remove prosthetic leg -->
+  <!-- <RemoveSimpleProstheticLeg.label>удалить простой протез ноги</RemoveSimpleProstheticLeg.label> -->
+  <!-- EN: Remove a prosthetic leg. -->
+  <!-- <RemoveSimpleProstheticLeg.description>Удалите простой протез ноги.</RemoveSimpleProstheticLeg.description> -->
+  <!-- EN: Removing prosthetic leg. -->
+  <!-- <RemoveSimpleProstheticLeg.jobString>Удаляет простой протез ноги</RemoveSimpleProstheticLeg.jobString> -->
   
 </LanguageData>

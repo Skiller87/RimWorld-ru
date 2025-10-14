@@ -22,7 +22,7 @@
   <Apparel_DisruptorFlarePack.verbs.deploy_flare.label>запустить ракету</Apparel_DisruptorFlarePack.verbs.deploy_flare.label>
   
   <!-- UNUSED -->
-  <Apparel_DisruptorFlarePack.comps.CompApparelVerbOwner_Charged.chargeNoun>зарядить</Apparel_DisruptorFlarePack.comps.CompApparelVerbOwner_Charged.chargeNoun>
+  <!-- <Apparel_DisruptorFlarePack.comps.CompApparelVerbOwner_Charged.chargeNoun>зарядить</Apparel_DisruptorFlarePack.comps.CompApparelVerbOwner_Charged.chargeNoun> -->
   
   <!-- EN: turret pack -->
   <Apparel_PackTurret.label>ранец с турелью</Apparel_PackTurret.label>

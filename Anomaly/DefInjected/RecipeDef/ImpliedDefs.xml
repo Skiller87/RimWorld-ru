@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Make lab coat -->
+  <Make_Apparel_LabCoat.label>сшить лабораторный халат</Make_Apparel_LabCoat.label>
+  <!-- EN: Изготовьте лабораторный халат -->
+  <Make_Apparel_LabCoat.description>Сшейте лабораторный халат.</Make_Apparel_LabCoat.description>
+  <!-- EN: Изготавливает лабораторный халат -->
+  <Make_Apparel_LabCoat.jobString>Шьёт лабораторный халат</Make_Apparel_LabCoat.jobString>
+
+</LanguageData>

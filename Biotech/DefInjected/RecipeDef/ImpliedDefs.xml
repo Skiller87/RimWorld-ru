@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Make kid parka -->
+  <Make_Apparel_KidParka.label>сшить детский пуховик</Make_Apparel_KidParka.label>
+  <!-- EN: Изготовьте пуховик -->
+  <Make_Apparel_KidParka.description>Сшейте детский пуховик.</Make_Apparel_KidParka.description>
+  <!-- EN: Изготавливает пуховик -->
+  <Make_Apparel_KidParka.jobString>Шьёт детский пуховик</Make_Apparel_KidParka.jobString>
+  
+    <!-- EN: Make kid pants -->
+  <Make_Apparel_KidPants.label>сшить детские штаны</Make_Apparel_KidPants.label>
+  <!-- EN: Изготовьте детские штаны -->
+  <Make_Apparel_KidPants.description>Сшейте детские штаны.</Make_Apparel_KidPants.description>
+  <!-- EN: Изготавливает детские штаны -->
+  <Make_Apparel_KidPants.jobString>Шьёт детские штаны</Make_Apparel_KidPants.jobString>
+  
+  <!-- EN: изготовить детскую тунику -->
+  <Make_Apparel_KidTribal.label>сшить детскую тунику</Make_Apparel_KidTribal.label>
+  <!-- EN: Изготовьте детскую тунику -->
+  <Make_Apparel_KidTribal.description>Сшейте детскую тунику.</Make_Apparel_KidTribal.description>
+  <!-- EN: Изготавливает детскую тунику -->
+  <Make_Apparel_KidTribal.jobString>Шьёт детскую тунику</Make_Apparel_KidTribal.jobString>
+  
+  <!-- EN: изготовить детскую футболку -->
+  <Make_Apparel_KidShirt.label>сшить детскую футболку</Make_Apparel_KidShirt.label>
+  <!-- EN: Изготовьте детскую футболку -->
+  <Make_Apparel_KidShirt.description>Сшейте детскую футболку.</Make_Apparel_KidShirt.description>
+  <!-- EN: Изготавливает детскую футболку -->
+  <Make_Apparel_KidShirt.jobString>Шьёт детскую футболку</Make_Apparel_KidShirt.jobString>
+  
+  <!-- EN: изготовить детский комбинезон -->
+  <Make_Apparel_KidRomper.label>сшить детский комбинезон</Make_Apparel_KidRomper.label>
+  <!-- EN: Изготовьте детскую футболку -->
+  <Make_Apparel_KidRomper.description>Сшейте детский комбинезон.</Make_Apparel_KidRomper.description>
+  <!-- EN: Изготавливает детскую футболку -->
+  <Make_Apparel_KidRomper.jobString>Шьёт детский комбинезон</Make_Apparel_KidRomper.jobString>
+
+  <!-- EN: Make sash -->
+  <Make_Apparel_Sash.label>сшить пе́ревязь</Make_Apparel_Sash.label>
+  <!-- EN: Изготовьте детскую футболку -->
+  <Make_Apparel_Sash.description>Сшейте пе́ревязь.</Make_Apparel_Sash.description>
+  <!-- EN: Изготавливает детскую футболку -->
+  <Make_Apparel_Sash.jobString>Шьёт пе́ревязь</Make_Apparel_Sash.jobString>
+  
+  <!-- EN: Make heavy bandolier -->
+  <Make_Apparel_Bandolier.label>сшить тяжёлый патронташ</Make_Apparel_Bandolier.label>
+  <!-- EN: Изготовьте детскую футболку -->
+  <Make_Apparel_Bandolier.description>Сшейте тяжёлый патронташ.</Make_Apparel_Bandolier.description>
+  <!-- EN: Изготавливает детскую футболку -->
+  <Make_Apparel_Bandolier.jobString>Шьёт тяжёлый патронташ</Make_Apparel_Bandolier.jobString>
+  
+  <!-- EN: Make kid helmet -->
+  <Make_Apparel_KidHelmet.label>выковать детский шлем</Make_Apparel_KidHelmet.label>
+  <!-- EN: Изготовьте детский шлем -->
+  <Make_Apparel_KidHelmet.description>Вы́куйте детский шлем.</Make_Apparel_KidHelmet.description>
+  <!-- EN: Изготавливает детский шлем -->
+  <Make_Apparel_KidHelmet.jobString>Куёт детский шлем</Make_Apparel_KidHelmet.jobString>
+  
+   <!-- EN: make array headset -->
+  <Make_Apparel_ArrayHeadset.label>изготовить матричную гарнитуру</Make_Apparel_ArrayHeadset.label>
+  <!-- EN: Make a array headset. -->
+  <Make_Apparel_ArrayHeadset.description>Изготовьте матричную гарнитуру.</Make_Apparel_ArrayHeadset.description>
+  <!-- EN: Making array headset. -->
+  <Make_Apparel_ArrayHeadset.jobString>Изготавливает матричную гарнитуру</Make_Apparel_ArrayHeadset.jobString>
+   
+  <!-- EN: make airwire headset -->
+  <Make_Apparel_AirwireHeadset.label>изготовить беспроводную гарнитуру</Make_Apparel_AirwireHeadset.label>
+  <!-- EN: Make a airwire headset. -->
+  <Make_Apparel_AirwireHeadset.description>Изготовьте беспроводную гарнитуру.</Make_Apparel_AirwireHeadset.description>
+  <!-- EN: Making airwire headset. -->
+  <Make_Apparel_AirwireHeadset.jobString>Изготавливает беспроводную гарнитуру</Make_Apparel_AirwireHeadset.jobString>
+  
+  <!-- EN: make integrator headset -->
+  <Make_Apparel_IntegratorHeadset.label>изготовить интеграционную гарнитуру</Make_Apparel_IntegratorHeadset.label>
+  <!-- EN: Make a integrator headset. -->
+  <Make_Apparel_IntegratorHeadset.description>Изготовьте интеграционную гарнитуру.</Make_Apparel_IntegratorHeadset.description>
+  <!-- EN: Making integrator headset. -->
+  <Make_Apparel_IntegratorHeadset.jobString>Изготавливает интеграционную гарнитуру</Make_Apparel_IntegratorHeadset.jobString>
+       
+  <!-- EN: make detoxifier kidney -->
+  <Make_DetoxifierKidney.label>изготовить детоксицирующую почку</Make_DetoxifierKidney.label>
+  <!-- EN: Make a detoxifier kidney. -->
+  <Make_DetoxifierKidney.description>Изготовьте детоксицирующую почку.</Make_DetoxifierKidney.description>
+  <!-- EN: Making detoxifier kidney. -->
+  <Make_DetoxifierKidney.jobString>Изготавливает детоксицирующую почку</Make_DetoxifierKidney.jobString>  
+  
+</LanguageData>

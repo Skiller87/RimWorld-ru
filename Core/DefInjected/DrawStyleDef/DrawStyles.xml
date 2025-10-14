@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: angled line -->
+  <AngledLine.label>линия по диагонали</AngledLine.label>
+  
+  <!-- EN: empty oval -->
+  <EmptyOval.label>пустой эллипс (контур)</EmptyOval.label>
+  
+  <!-- EN: empty rectangle -->
+  <EmptyRectangle.label>пустой прямоугольник</EmptyRectangle.label>
+  
+  <!-- EN: filled oval -->
+  <FilledOval.label>заполненный эллепс</FilledOval.label>
+  
+  <!-- EN: filled rectangle -->
+  <FilledRectangle.label>заполненный прямоугольник</FilledRectangle.label>
+  
+  <!-- EN: line -->
+  <Line.label>прямая линия</Line.label>
+  
+</LanguageData>

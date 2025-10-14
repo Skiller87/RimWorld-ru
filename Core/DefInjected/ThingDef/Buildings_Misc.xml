@@ -14,7 +14,7 @@
   <!-- EN: cave exit -->
   <CaveExit.label>выход из пещеры</CaveExit.label>
   <!-- EN: A rope line which links to the surface above. -->
-  <CaveExit.description>Верёвка, ведущая на поверхность.</CaveExit.description>
+  <CaveExit.description>Верёвка, чтобы выбраться на поверхность.</CaveExit.description>
   
   <!-- EN: comms console -->
   <CommsConsole.label>консоль связи</CommsConsole.label>
@@ -24,28 +24,25 @@
   <CommsConsole.comps.CompUsable.useLabel>Вызвать механоида-дьявола</CommsConsole.comps.CompUsable.useLabel>
   
   <!-- EN: crater -->
-  <CraterLarge.label>кратер</CraterLarge.label>
+  <CraterSmall.label>кратер</CraterSmall.label>
   <!-- EN: A small pit formed by a powerful impact or explosion. -->
-  <CraterLarge.description>Небольшое углубление, образовавшееся в результате мощного удара или взрыва.</CraterLarge.description>
-  
+  <CraterSmall.description>Маленькая яма, образовавшаяся от сильного удара или взрыва.</CraterSmall.description>
   <!-- EN: crater -->
   <CraterMedium.label>кратер</CraterMedium.label>
   <!-- EN: A small pit formed by a powerful impact or explosion. -->
-  <CraterMedium.description>Небольшое углубление, образовавшееся в результате мощного удара или взрыва.</CraterMedium.description>
-  
+  <CraterMedium.description>Средняя яма, образовавшаяся от мощного удара или взрыва.</CraterMedium.description>
   <!-- EN: crater -->
-  <CraterSmall.label>кратер</CraterSmall.label>
+  <CraterLarge.label>кратер</CraterLarge.label>
   <!-- EN: A small pit formed by a powerful impact or explosion. -->
-  <CraterSmall.description>Небольшое углубление, образовавшееся в результате мощного удара или взрыва.</CraterSmall.description>
+  <CraterLarge.description>Большая яма, образовавшаяся от сокрушительного удара или взрыва.</CraterLarge.description>
   
-
   <!-- EN: cryptosleep casket -->
   <CryptosleepCasket.label>саркофаг криптосна</CryptosleepCasket.label>
   <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
   <CryptosleepCasket.description>Автономная капсула, разработанная, чтобы поддерживать человека в состоянии анабиоза в течение многих лет.</CryptosleepCasket.description>
   
   <!-- EN: delayed effecter spawner -->
-  <DelayedEffecterSpawner.label>спавнер отложенного эффектора</DelayedEffecterSpawner.label> <!-- Не показывается в игре -->
+  <DelayedEffecterSpawner.label>спавнер отложенного эффектора</DelayedEffecterSpawner.label><!-- Не показывается в игре -->
   
   <!-- EN: egg box -->
   <EggBox.label>коробка для яиц</EggBox.label>

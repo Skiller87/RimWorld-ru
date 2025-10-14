@@ -37,6 +37,16 @@
   <ConfirmLandGravship>Подтвердить зону посадки</ConfirmLandGravship>
   <!-- EN: Land your gravship in the landing zone. -->
   <ConfirmLandGravshipDesc>Посадите ваш гравикорабль в выбранной зоне посадки.</ConfirmLandGravshipDesc>
+  <!-- EN: Abort landing -->
+  <AbortLandGravship>Прервать посадку</AbortLandGravship>
+  <!-- EN: Cancel landing on this map, and force the gravship to land nearby on the world map. Useful if you can't find a landing spot.\n\nWarning: This increases the chance of a mishap when landing. -->
+  <AbortLandGravshipDesc>Отменить посадку здесь и заставить гравикорабль приземлиться поблизости на карте мира. Полезно, если не удаётся найти место для посадки.\n\Внимание: это увеличивает вероятность происшествий при посадке.</AbortLandGravshipDesc>
+  <!-- EN: Aborting the landing will force your gravship to land in a random nearby location on the world map. This increases the chance of a mishap when landing.\n\nAre you sure you want to continue? -->
+  <AbortLandConfirmation>Отмена посадки в точке назначения заставит ваш гравикорабль приземлиться в случайном месте поблизости на карте мира. Это увеличивает вероятность происшествий при посадке.\n\nВы уверены, что хотите продолжить?</AbortLandConfirmation>
+  <!-- EN: Failed to find crash site. -->
+  <FailedToFindCrashSite>Не удалось найти место крушения.</FailedToFindCrashSite>
+  <!-- EN: You must designate a landing area for your gravship. -->
+  <GravshipLandingMarkerNotPlaced>Укажите зону посадки для вашего гравикорабля.</GravshipLandingMarkerNotPlaced>
 
   <!-- EN: Refuel from cargo -->
   <CommandRefuelShuttleFromCargo>Заправить из груза</CommandRefuelShuttleFromCargo>
@@ -62,4 +72,8 @@
   <GravshipShieldOrderActivationDesc>Приказать пешке активировать генератор щита гравикорабля.</GravshipShieldOrderActivationDesc>
   <!-- EN: Order a pawn to deactivate the gravship shield generator. -->
   <GravshipShieldOrderDeactivationDesc>Приказать пешке деактивировать генератор щита гравикорабля.</GravshipShieldOrderDeactivationDesc>
+  
+  <!-- EN: Merging these caravans will cause the following to be lost:\n{0}\n\nAre you sure you want to continue? -->
+  <ConfirmMergeShuttles>Объединение этих караванов приведёт к потере следующих ресурсов:\n{0}\n\nВы уверены, что хотите продолжить?</ConfirmMergeShuttles>
+  
 </LanguageData>

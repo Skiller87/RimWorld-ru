@@ -9,7 +9,7 @@
   <!-- EN: pilot assistant -->
   <PilotAssistant.label>помощник пилота</PilotAssistant.label>
   <!-- EN: An installed pilot assistant. This neural interface connects a pilot's brain directly to a vehicle, enhancing the pilot's control and reaction speed. -->
-  <PilotAssistant.description>Установленный помощник пилота. Нейроинтерфейс, который соединяет мозг пилота напрямую с транспортным средством, улучшая контроль и скорость реакции пилота.</PilotAssistant.description>
+  <PilotAssistant.description>Вживленный помощник пилота. Нейроинтерфейс, который соединяет мозг пилота напрямую с транспортным средством, улучшая контроль и скорость реакции пилота.</PilotAssistant.description>
   <!-- EN: a pilot assistant -->
   <PilotAssistant.labelNoun>помощник пилота</PilotAssistant.labelNoun>
   
@@ -19,5 +19,12 @@
   <SentienceCatalyst.description>Особые механиты усилили нейронные связи этого животного, позволив обучать его тому, чему обычно невозможно научить.</SentienceCatalyst.description>
   <!-- EN: sentience catalyst -->
   <SentienceCatalyst.labelNoun>катализатор разума</SentienceCatalyst.labelNoun>
+  
+    <!-- EN: vacskin gland -->
+  <VacskinGland.label>железа вакуумитовой кожи</VacskinGland.label>
+  <!-- EN: An installed vacskin gland. Releases a waxy substance that forms an insulating barrier on the skin, preventing vacuum burns but restricting movement. The gland also regulates blood oxygen levels, allowing longer survival in the vacuum of space. -->
+  <VacskinGland.description>Вживленная железа вакуумитовой кожи. Выделяет воскообразное вещество, образующее на коже изолирующий барьер, предотвращая ожоги от вакуума, но ограничивая подвижность. Железа также регулирует уровень кислорода в крови, что позволяет дольше выживать в условиях космического вакуума.</VacskinGland.description>
+  <!-- EN: a vacskin gland -->
+  <VacskinGland.labelNoun>железа вакуумитовой кожи</VacskinGland.labelNoun>
   
 </LanguageData>

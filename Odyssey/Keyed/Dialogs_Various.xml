@@ -29,6 +29,19 @@
   <PlayerGravshipGainsName>Гравикорабль теперь называется «{0}».</PlayerGravshipGainsName>
   <!-- EN: That name isn't valid. -->
   <PlayerGravshipNameIsInvalid>Это имя недопустимо.</PlayerGravshipNameIsInvalid>
+  
+  <!-- EN: Force visitors to leave -->
+  <GravshipForceVisitorsToLeaveLabel>Заставить посетителей уйти</GravshipForceVisitorsToLeaveLabel>
+  <!-- EN: Wait for all visitors to leave the gravship before launching. This won’t affect enemies, prisoners, or downed visitors. -->
+  <GravshipForceVisitorsToLeaveTooltip>Дождитесь, пока все посетители покинут гравикорабль перед запуском. Это не касается врагов, пленных или раненых посетителей.</GravshipForceVisitorsToLeaveTooltip>
+  <!-- EN: Board colony animals -->
+  <GravshipBoardColonyAnimalsLabel>Посадить животных на борт</GravshipBoardColonyAnimalsLabel>
+  <!-- EN: Order all colony animals to board the gravship. The gravship won’t launch until they are aboard. -->
+  <GravshipBoardColonyAnimalsTooltip>Приказать всем животным колонии подняться на борт гравикорабля. Корабль не взлетит, пока они не окажутся внутри.</GravshipBoardColonyAnimalsTooltip>
+  <!-- EN: Board colony mechanoids -->
+  <GravshipBoardColonyMechsLabel>Посадить механойдов на борт</GravshipBoardColonyMechsLabel>
+  <!-- EN: Order all colony mechanoids to board the gravship. The gravship won’t launch until they are aboard. -->
+  <GravshipBoardColonyMechsTooltip>Приказать всем механоидам колонии подняться на борт гравикорабля. Корабль не взлетит, пока они не окажутся внутри.</GravshipBoardColonyMechsTooltip> 
 
   <!-- EN: {0} are hostile. If you land here they will attack you. -->
   <ConfirmLandOnHostileFactionBase>{0} враждебны. Если вы приземлитесь здесь, они нападут на вас.</ConfirmLandOnHostileFactionBase>
