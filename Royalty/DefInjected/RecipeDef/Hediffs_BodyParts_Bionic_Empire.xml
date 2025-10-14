@@ -162,6 +162,14 @@
   <!-- EN: Removing coagulator. -->
   <RemoveCoagulator.jobString>Удаляет коагулятор</RemoveCoagulator.jobString>
   
+  <!-- EN: remove sterilizing stomach -->
+  <!-- <RemoveDetoxifierStomach.label>удалить стерилизующий желудок</RemoveDetoxifierStomach.label> -->
+  <!-- EN: Remove a sterilizing stomach. -->
+  <!-- <RemoveDetoxifierStomach.description>Удалить стерилизующий желудок.</RemoveDetoxifierStomach.description> -->
+  <!-- EN: Removing sterilizing stomach. -->
+  <!-- <RemoveDetoxifierStomach.jobString>Удаляет стерилизующий желудок</RemoveDetoxifierStomach.jobString> -->
+  
+  
   <!-- EN: remove gastro-analyzer -->
   <RemoveGastroAnalyzer.label>удалить гастроанализатор</RemoveGastroAnalyzer.label>
   <!-- EN: Remove gastro-analyzer. -->
@@ -203,6 +211,20 @@
   <RemoveNeurocalculator.description>Удалить нейрокалькулятор.</RemoveNeurocalculator.description>
   <!-- EN: Removing neurocalculator. -->
   <RemoveNeurocalculator.jobString>Удаляет нейрокалькулятор</RemoveNeurocalculator.jobString>
+  
+  <!-- EN: remove nuclear stomach -->
+  <!-- <RemoveNuclearStomach.label>удалить ядерный желудок</RemoveNuclearStomach.label> -->
+  <!-- EN: Remove a nuclear stomach. -->
+  <!-- <RemoveNuclearStomach.description>Удалить ядерный желудок.</RemoveNuclearStomach.description> -->
+  <!-- EN: Removing nuclear stomach. -->
+  <!-- <RemoveNuclearStomach.jobString>Удаляет ядерный желудок</RemoveNuclearStomach.jobString> -->
+  
+  <!-- EN: remove reprocessor stomach -->
+  <!-- <RemoveReprocessorStomach.label>удалить желудок повторной обработки</RemoveReprocessorStomach.label> -->
+  <!-- EN: Remove a reprocessor stomach. -->
+  <!-- <RemoveReprocessorStomach.description>Удалить желудок повторной обработки.</RemoveReprocessorStomach.description> -->
+  <!-- EN: Removing reprocessor stomach. -->
+  <!-- <RemoveReprocessorStomach.jobString>Удаляет желудок повторной обработки</RemoveReprocessorStomach.jobString> -->
   
   <!-- EN: remove stoneskin gland -->
   <RemoveStoneskinGland.label>удалить железу каменной кожи</RemoveStoneskinGland.label>

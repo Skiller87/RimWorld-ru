@@ -57,6 +57,20 @@
   <!-- EN: Installing venom talon. -->
   <InstallVenomTalon.jobString>Вживляет ядовитый коготь</InstallVenomTalon.jobString>
   
+  <!-- EN: remove drill arm -->
+  <!-- <RemoveDrillArm.label>удалить руку-бур</RemoveDrillArm.label> -->
+  <!-- EN: Remove a drill arm. -->
+  <!-- <RemoveDrillArm.description>удалить руку-бур.</RemoveDrillArm.description> -->
+  <!-- EN: Removing drill arm. -->
+  <!-- <RemoveDrillArm.jobString>Удаляет руку-бур</RemoveDrillArm.jobString> -->
+  
+  <!-- EN: remove field hand -->
+  <!-- <RemoveFieldHand.label>удалить агроруку</RemoveFieldHand.label> -->
+  <!-- EN: Remove a field hand. -->
+  <!-- <RemoveFieldHand.description>удалить агроруку.</RemoveFieldHand.description> -->
+  <!-- EN: Removing field hand. -->
+  <!-- <RemoveFieldHand.jobString>Удаляет агроруку</RemoveFieldHand.jobString> -->
+  
   <!-- EN: remove elbow blade -->
   <RemoveElbowBlade.label>удалить локтевое лезвие</RemoveElbowBlade.label>
   <!-- EN: Remove elbow blade. -->
@@ -77,6 +91,13 @@
   <RemoveKneeSpike.description>Удалить коленный шип.</RemoveKneeSpike.description>
   <!-- EN: Removing knee spike. -->
   <RemoveKneeSpike.jobString>Удаляет коленный шип</RemoveKneeSpike.jobString>
+  
+  <!-- EN: remove mindscrew -->
+  <!-- <RemoveMindscrew.label>удалить мозгорез</RemoveMindscrew.label> -->
+  <!-- EN: Remove a mindscrew. -->
+  <!-- <RemoveMindscrew.description>удалить мозгорез.</RemoveMindscrew.description> -->
+  <!-- EN: Removing mindscrew. -->
+  <!-- <RemoveMindscrew.jobString>Удаляет мозгорез</RemoveMindscrew.jobString> -->
   
   <!-- EN: remove venom fangs -->
   <RemoveVenomFangs.label>удалить ядовитые клыки</RemoveVenomFangs.label>

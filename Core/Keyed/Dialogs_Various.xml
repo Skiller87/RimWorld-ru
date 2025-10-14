@@ -252,7 +252,6 @@
   <!-- EN: At least one colonist must be capable of {0} -->
   <SelectedCharacterMustBeCapableOf>Хотя бы один поселенец должен быть способен к {lookup: {0}; Case; 2}</SelectedCharacterMustBeCapableOf>
 
-
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in winter. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different season. -->
   <MapWinterWarning>Вы приземлитесь зимой. Выжить в этот период может оказаться крайне сложно. Если не хотите столкнуться с экстремальными трудностями, выберите другой сезон.</MapWinterWarning>
@@ -1074,7 +1073,7 @@
   <NovelPolicy>Беллетристика</NovelPolicy>
   <!-- EN: Maps -->
   <MapPolicy>Карты</MapPolicy>
-
+  
   <!-- Medical settings -->
   <!-- EN: Default medicine settings -->
   <DefaultMedicineSettings>Настройки по умолчанию</DefaultMedicineSettings>

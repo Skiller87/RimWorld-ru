@@ -510,7 +510,7 @@
   <PrioritizeGeneric>{0} {replace: {lookup: {1}; Case; 3}; "область"-""}</PrioritizeGeneric> <!-- replace для исключения вариантов типа «Разобрать крышу область» -->
   <!-- EN: Prioritize {0} -->
   <PrioritizeGenericSimple>{0}</PrioritizeGenericSimple>
-
+  
   <!-- EN: Launch to {LOCATION_label} -->
   <LaunchTo>Запустить к цели: {LOCATION_label}</LaunchTo> <!-- Предлоги "на", "в" и "к" не подходят в общем случае -->
   <!-- EN: Are you sure you want to launch? -->

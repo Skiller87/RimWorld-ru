@@ -141,6 +141,12 @@
   <!-- EN: Protect the scanner until it's finished surveying the area. This will take {DURATION}. -->
   <LetterSurveyScannerArrived>Защитите сканер, пока он не закончит изучать территорию. Это займет {DURATION}.</LetterSurveyScannerArrived>
 
+  <!-- Psilocaps --> псилошляпок
+  <!-- EN: Due to ingesting psilocaps, [PAWN_nameIndef] has experienced an inspiration! -->
+  <LetterInspirationBeginPsilocap>Из-за употребления псилошляпок, [PAWN_nameIndef] испытал{PAWN_gender ?  : а} вдохновение!</LetterInspirationBeginPsilocap>
+  <!-- EN: This happened due to ingesting psilocaps. -->
+  <MentalBreakReason_Psilocap>Это произошло из-за употребления псилошляпок</MentalBreakReason_Psilocap>
+
   <!-- EN: Insect lair -->
   <EnteredMegahiveLabel>Логово насекомых</EnteredMegahiveLabel>
   <!-- EN: {PAWN_nameDef} has arrived in the depths of a massive underground insect lair. The air is heavy with the stench of insect secretions. -->

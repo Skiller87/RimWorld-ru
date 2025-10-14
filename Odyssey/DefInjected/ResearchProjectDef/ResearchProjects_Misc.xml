@@ -96,7 +96,7 @@
   <!-- EN: orbital tech -->
   <OrbitalTech.label>орбитальные технологии</OrbitalTech.label>
   <!-- EN: Construct buildings and apparel that can protect against the harsh vacuum of space. -->
-  <OrbitalTech.description>Стройте здания и одежду, которые защищают от сурового вакуума космоса.</OrbitalTech.description>
+  <OrbitalTech.description>Стройте здания и производите одежду, которые защищают от сурового вакуума космоса.</OrbitalTech.description>
   <!-- EN:
     <li>subject->orbital apparel</li>
     <li>subject_story->assembled liners for vacsuits</li>

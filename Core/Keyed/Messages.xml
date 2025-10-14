@@ -166,7 +166,7 @@
   <MessageCannotAdoptWhileThreatsAreNear>Невозможно забрать {CLAIMABLE_labelShort}, пока рядом находится {THREAT}.</MessageCannotAdoptWhileThreatsAreNear>
   <!-- EN: Cannot remove foundation that supports a building. -->
   <MessageCannotRemoveSupportingFoundation>Нельзя убрать основание, на котором находится сооружение.</MessageCannotRemoveSupportingFoundation>
-
+  
   <!-- EN: {1_labelShort} has refused to be arrested! -->
   <MessageRefusedArrest>{1_labelShort} сопротивляется аресту!</MessageRefusedArrest>
   
@@ -379,8 +379,6 @@
   <MessageCantLoadMoreIntoTransporters>Ваши {1} не могут завершить загрузку транспортных капсул из-за отсутствия доступа к некоторым людям или вещам: {2_labelShort}.</MessageCantLoadMoreIntoTransporters>
   <!-- EN: Your {1} can't finish loading the shuttle because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoShuttle>Ваши {1} не могут завершить загрузку челнока из-за отсутствия доступа к некоторым людям или вещам: {2_labelShort}.</MessageCantLoadMoreIntoShuttle>
-  <!-- EN: Your {1} can't finish loading the shuttle because some items or people became unavailable ({2_labelShort}). -->
-  <MessageCantLoadMoreIntoShuttle>Ваши {1} не могут завершить погрузку челнока из-за отсутствия доступа к некоторым людям или вещам: {2_labelShort}.</MessageCantLoadMoreIntoShuttle>
   <!-- EN: Your {1} can't finish entering the {0} because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoPortal>Ваши {1} не могут завершить проход в {lookup: {0}; Case; 3} из-за отсутствия доступа к некоторым людям или вещам: {2_labelShort}.</MessageCantLoadMoreIntoPortal>
   

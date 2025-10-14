@@ -87,4 +87,26 @@
   <!-- EN: Smelting weapon. -->
   <SmeltWeapon.jobString>Переплавляет оружие</SmeltWeapon.jobString>
   
+    <!-- EN: make bionic arm -->
+  <Make_BionicArm.label>изготовить бионическую руку</Make_BionicArm.label>
+  <!-- EN: Make a bionic arm. -->
+  <Make_BionicArm.description>Изготовить бионическую руку.</Make_BionicArm.description>
+  <!-- EN: Making bionic arm. -->
+  <Make_BionicArm.jobString>Изготавливает бионическую руку</Make_BionicArm.jobString>
+    
+  <!-- EN: Make bionic jaw -->
+  <Make_BionicJaw.label>изготовить бионическую челюсть</Make_BionicJaw.label>
+  <!-- EN: Make bionic jaw. -->
+  <Make_BionicJaw.description>Изготовить бионическую челюсть.</Make_BionicJaw.description>
+  <!-- EN: Making bionic jaw. -->
+  <Make_BionicJaw.jobString>Изготавливает бионическую челюсть</Make_BionicJaw.jobString>
+  
+  <!-- EN: make bionic leg -->
+  <Make_BionicLeg.label>изготовить бионическую ногу</Make_BionicLeg.label>
+  <!-- EN: Make a bionic leg. -->
+  <Make_BionicLeg.description>Изготовить бионическую ногу.</Make_BionicLeg.description>
+  <!-- EN: Making bionic leg. -->
+  <Make_BionicLeg.jobString>Изготавливает бионическую ногу</Make_BionicLeg.jobString>
+  
+  
 </LanguageData>

@@ -22,4 +22,25 @@
   <!-- EN: Installing archotech leg. -->
   <InstallArchotechLeg.jobString>Вживляет архоногу</InstallArchotechLeg.jobString>
   
+  <!-- EN: remove archotech arm -->
+  <!-- <RemoveArchotechArm.label>удалить архоруку</RemoveArchotechArm.label> -->
+  <!-- EN: Remove an archotech arm. -->
+  <!-- <RemoveArchotechArm.description>Удалить архоруку.</RemoveArchotechArm.description> -->
+  <!-- EN: Removing archotech arm. -->
+  <!-- <RemoveArchotechArm.jobString>Удаляет архоруку</RemoveArchotechArm.jobString> -->
+  
+    <!-- EN: remove archotech eye -->
+  <!-- <RemoveArchotechEye.label>удалить архоглаз</RemoveArchotechEye.label> -->
+  <!-- EN: Remove an archotech eye. -->
+  <!-- <RemoveArchotechEye.description>Удалить архоглаз.</RemoveArchotechEye.description> -->
+  <!-- EN: Removing archotech eye. -->
+  <!-- <RemoveArchotechEye.jobString>Удаляет архоглаз</RemoveArchotechEye.jobString> -->
+  
+    <!-- EN: remove archotech leg -->
+  <!-- <RemoveArchotechLeg.label>удалить архоногу</RemoveArchotechLeg.label> -->
+  <!-- EN: Remove an archotech leg. -->
+  <!-- <RemoveArchotechLeg.description>Удалить архоногу.</RemoveArchotechLeg.description> -->
+  <!-- EN: Removing archotech leg. -->
+  <!-- <RemoveArchotechLeg.jobString>Удаляет архоногу</RemoveArchotechLeg.jobString> -->
+  
 </LanguageData>

@@ -34,6 +34,20 @@
   <!-- EN: Изготавливает рубашку -->
   <Make_Apparel_CollarShirt.jobString>Шьёт рубашку</Make_Apparel_CollarShirt.jobString>
   
+  <!-- EN: изготовить защитную маску -->
+  <Make_Apparel_ClothMask.label>сшить защитную маску</Make_Apparel_ClothMask.label>
+  <!-- EN: Изготовить защитную маску -->
+  <Make_Apparel_ClothMask.description>Сшить защитную маску.</Make_Apparel_ClothMask.description>
+  <!-- EN: Изготавливает защитную маску -->
+  <Make_Apparel_ClothMask.jobString>Шьёт защитную маску</Make_Apparel_ClothMask.jobString>
+  
+  <!-- EN: изготовить капюшон -->
+  <Make_Apparel_HatHood.label>сшить капюшон</Make_Apparel_HatHood.label>
+  <!-- EN: Изготовить капюшон -->
+  <Make_Apparel_HatHood.description>Сшить капюшон.</Make_Apparel_HatHood.description>
+  <!-- EN: Изготавливает капюшон -->
+  <Make_Apparel_HatHood.jobString>Шьёт капюшон</Make_Apparel_HatHood.jobString>
+  
   <!-- EN: изготовить ковбойскую шляпу -->
   <Make_Apparel_CowboyHat.label>сшить ковбойскую шляпу</Make_Apparel_CowboyHat.label>
   <!-- EN: Изготовить ковбойскую шляпу -->
@@ -76,6 +90,20 @@
   <!-- EN: Изготавливает куртку -->
   <Make_Apparel_Jacket.jobString>Шьёт куртку</Make_Apparel_Jacket.jobString>
   
+  <!-- EN: изготовить мантию -->
+  <Make_Apparel_Robe.label>сшить мантию</Make_Apparel_Robe.label>
+  <!-- EN: Изготовить мантию -->
+  <Make_Apparel_Robe.description>Сшить мантию.</Make_Apparel_Robe.description>
+  <!-- EN: Изготавливает мантию -->
+  <Make_Apparel_Robe.jobString>Шьёт мантию</Make_Apparel_Robe.jobString>
+
+  <!-- EN: изготовить накидку -->
+  <Make_Apparel_Cape.label>сшить накидку</Make_Apparel_Cape.label>
+  <!-- EN: Изготовить накидку -->
+  <Make_Apparel_Cape.description>Сшить накидку.</Make_Apparel_Cape.description>
+  <!-- EN: Изготавливает накидку -->
+  <Make_Apparel_Cape.jobString>Шьёт накидку</Make_Apparel_Cape.jobString> 
+ 
   <!-- EN: изготовить штаны -->
   <Make_Apparel_Pants.label>сшить штаны</Make_Apparel_Pants.label>
   <!-- EN: Изготовить штаны -->
@@ -132,26 +160,12 @@
   <!-- EN: Изготавливает покров -->
   <Make_Apparel_WarVeil.jobString>Шьёт покров</Make_Apparel_WarVeil.jobString>
   
-  <!-- EN: изготовить хлопья психина -->
-  <Make_Flake.label>получить хлопья психина</Make_Flake.label>
-  <!-- EN: Изготовить хлопья психина -->
-  <Make_Flake.description>Получить хлопья психина.</Make_Flake.description>
-  <!-- EN: Изготавливает хлопья психина -->
-  <Make_Flake.jobString>Получает хлопья психина</Make_Flake.jobString>
-  
-  <!-- EN: изготовить Go-сок -->
-  <Make_GoJuice.label>синтезировать Go-сок</Make_GoJuice.label>
-  <!-- EN: Изготовить Go-сок -->
-  <Make_GoJuice.description>Синтезировать Go-сок.</Make_GoJuice.description>
-  <!-- EN: Изготавливает Go-сок -->
-  <Make_GoJuice.jobString>Синтезирует Go-сок</Make_GoJuice.jobString>
-  
-  <!-- EN: изготовить медикаменты -->
-  <Make_MedicineIndustrial.label>изготовить медикаменты</Make_MedicineIndustrial.label>
-  <!-- EN: Изготовить медикаменты -->
-  <Make_MedicineIndustrial.description>Изготовить медикаменты.</Make_MedicineIndustrial.description>
-  <!-- EN: Изготавливает медикаменты -->
-  <Make_MedicineIndustrial.jobString>Изготавливает медикаменты</Make_MedicineIndustrial.jobString>
+  <!-- EN: изготовить простой шлем -->
+  <Make_Apparel_SimpleHelmet.label>выковать простой шлем</Make_Apparel_SimpleHelmet.label>
+  <!-- EN: Изготовить простой шлем -->
+  <Make_Apparel_SimpleHelmet.description>Выковать простой шлем.</Make_Apparel_SimpleHelmet.description>
+  <!-- EN: Изготавливает простой шлем -->
+  <Make_Apparel_SimpleHelmet.jobString>Куёт простой шлем</Make_Apparel_SimpleHelmet.jobString>
   
   <!-- EN: изготовить дубину -->
   <Make_MeleeWeapon_Club.label>вырезать дубину</Make_MeleeWeapon_Club.label>
@@ -201,13 +215,13 @@
   <Make_MeleeWeapon_Spear.description>Выковать копьё.</Make_MeleeWeapon_Spear.description>
   <!-- EN: Изготавливает копьё -->
   <Make_MeleeWeapon_Spear.jobString>Куёт копьё</Make_MeleeWeapon_Spear.jobString>
-  
-  <!-- EN: изготовить пеноксицилин -->
-  <Make_Penoxycyline.label>синтезировать пеноксицилин</Make_Penoxycyline.label>
-  <!-- EN: Изготовить пеноксицилин -->
-  <Make_Penoxycyline.description>Синтезировать пеноксицилин.</Make_Penoxycyline.description>
-  <!-- EN: Изготавливает пеноксицилин -->
-  <Make_Penoxycyline.jobString>Синтезирует пеноксицилин</Make_Penoxycyline.jobString>
+ 
+  <!-- EN: изготовить штурмовой топор -->
+  <Make_MeleeWeapon_BreachAxe.label>выковать штурмовой топор</Make_MeleeWeapon_BreachAxe.label>
+  <!-- EN: Изготовить штурмовой топор -->
+  <Make_MeleeWeapon_BreachAxe.description>Выковать штурмовой топор.</Make_MeleeWeapon_BreachAxe.description>
+  <!-- EN: Изготавливает штурмовой топор -->
+  <Make_MeleeWeapon_BreachAxe.jobString>Куёт штурмовой топор</Make_MeleeWeapon_BreachAxe.jobString>
   
   <!-- EN: изготовить пилум -->
   <Make_Pila.label>выковать пилум</Make_Pila.label>
@@ -215,6 +229,97 @@
   <Make_Pila.description>Выковать пилум.</Make_Pila.description>
   <!-- EN: Изготавливает пилум -->
   <Make_Pila.jobString>Куёт пилум</Make_Pila.jobString>
+   
+  <!-- EN: make marine armor -->
+  <Make_Apparel_PowerArmor.label>изготовить пехотную броню</Make_Apparel_PowerArmor.label>
+  <!-- EN: Make a marine armor. -->
+  <Make_Apparel_PowerArmor.description>Изготовить пехотную броню.</Make_Apparel_PowerArmor.description>
+  <!-- EN: Making marine armor -->
+  <Make_Apparel_PowerArmor.jobString>Изготавливает пехотную броню</Make_Apparel_PowerArmor.jobString>
+  
+  <!-- EN: make marine armor -->
+  <Make_Apparel_ArmorRecon.label>изготовить разведброню</Make_Apparel_ArmorRecon.label>
+  <!-- EN: Make a marine armor. -->
+  <Make_Apparel_ArmorRecon.description>Изготовить разведброню.</Make_Apparel_ArmorRecon.description>
+  <!-- EN: Making marine armor -->
+  <Make_Apparel_ArmorRecon.jobString>Изготавливает разведброню</Make_Apparel_ArmorRecon.jobString>
+  
+  <!-- EN: make charge rifle -->
+  <Make_Gun_ChargeRifle.label>изготовить энерговинтовку</Make_Gun_ChargeRifle.label>
+  <!-- EN: Make a charge rifle. -->
+  <Make_Gun_ChargeRifle.description>Изготовить энерговинтовку.</Make_Gun_ChargeRifle.description>
+  <!-- EN: Making charge rifle -->
+  <Make_Gun_ChargeRifle.jobString>Изготавливает энерговинтовку</Make_Gun_ChargeRifle.jobString>
+  
+   <!-- EN: make bolt-action rifle -->
+  <Make_Gun_BoltActionRifle.label>изготовить винтовку</Make_Gun_BoltActionRifle.label>
+   <!-- EN: Make a bolt-action rifle -->
+  <Make_Gun_BoltActionRifle.description>Изготовить винтовку.</Make_Gun_BoltActionRifle.description>
+   <!-- EN: Making bolt-action rifle -->
+  <Make_Gun_BoltActionRifle.jobString>Изготавливает винтовку</Make_Gun_BoltActionRifle.jobString>
+  
+  <!-- EN: make bolt-action rifle -->
+  <Make_Gun_SniperRifle.label>изготовить снайперскую винтовку</Make_Gun_SniperRifle.label>
+   <!-- EN: Make a bolt-action rifle -->
+  <Make_Gun_SniperRifle.description>Изготовить снайперскую винтовку.</Make_Gun_SniperRifle.description>
+   <!-- EN: Making bolt-action rifle -->
+  <Make_Gun_SniperRifle.jobString>Изготавливает снайперскую винтовку</Make_Gun_SniperRifle.jobString>
+  
+  <!-- EN: изготовить хлопья психина -->
+  <Make_Flake.label>получить хлопья психина</Make_Flake.label>
+  <!-- EN: Изготовить хлопья психина -->
+  <Make_Flake.description>Получить хлопья психина.</Make_Flake.description>
+  <!-- EN: Изготавливает хлопья психина -->
+  <Make_Flake.jobString>Получает хлопья психина</Make_Flake.jobString>
+  
+    <!-- EN: изготовить хлопья психина x4 -->
+  <Make_Flake.label>получить хлопья психина x4</Make_Flake.label>
+  <!-- EN: Изготовить хлопья психина x4 -->
+  <Make_Flake.description>Получить хлопья психина x4.</Make_Flake.description>
+  <!-- EN: Изготавливает хлопья психина x4 -->
+  <Make_Flake.jobString>Получает хлопья психина x4</Make_Flake.jobString>
+  
+  <!-- EN: изготовить Go-сок -->
+  <Make_GoJuice.label>синтезировать Go-сок</Make_GoJuice.label>
+  <!-- EN: Изготовить Go-сок -->
+  <Make_GoJuice.description>Синтезировать Go-сок.</Make_GoJuice.description>
+  <!-- EN: Изготавливает Go-сок -->
+  <Make_GoJuice.jobString>Синтезирует Go-сок</Make_GoJuice.jobString>
+  
+    <!-- EN: изготовить Go-сок x4 -->
+  <Make_GoJuiceBulk.label>синтезировать Go-сок x4</Make_GoJuiceBulk.label>
+  <!-- EN: Изготовить Go-сок x4 -->
+  <Make_GoJuiceBulk.description>Синтезировать Go-сок x4.</Make_GoJuiceBulk.description>
+  <!-- EN: Изготавливает Go-сок x4 -->
+  <Make_GoJuiceBulk.jobString>Синтезирует Go-сок x4</Make_GoJuiceBulk.jobString>
+  
+  <!-- EN: изготовить медикаменты -->
+  <Make_MedicineIndustrial.label>синтезировать медикаменты</Make_MedicineIndustrial.label>
+  <!-- EN: Изготовить медикаменты -->
+  <Make_MedicineIndustrial.description>Синтезировать медикаменты.</Make_MedicineIndustrial.description>
+  <!-- EN: Изготавливает медикаменты -->
+  <Make_MedicineIndustrial.jobString>Синтезирует медикаменты</Make_MedicineIndustrial.jobString>
+  
+  <!-- EN: изготовить медикаменты x4 -->
+  <Make_MedicineIndustrialBulk.label>синтезировать медикаменты x4</Make_MedicineIndustrialBulk.label>
+  <!-- EN: Изготовить медикаменты x4 -->
+  <Make_MedicineIndustrialBulk.description>Синтезировать медикаменты x4.</Make_MedicineIndustrialBulk.description>
+  <!-- EN: Изготавливает медикаменты x4 -->
+  <Make_MedicineIndustrialBulk.jobString>Синтезирует медикаменты x4</Make_MedicineIndustrialBulk.jobString>
+    
+  <!-- EN: изготовить пеноксицилин -->
+  <Make_Penoxycyline.label>синтезировать пеноксицилин</Make_Penoxycyline.label>
+  <!-- EN: Изготовить пеноксицилин -->
+  <Make_Penoxycyline.description>Синтезировать пеноксицилин.</Make_Penoxycyline.description>
+  <!-- EN: Изготавливает пеноксицилин -->
+  <Make_Penoxycyline.jobString>Синтезирует пеноксицилин</Make_Penoxycyline.jobString>
+  
+  <!-- EN: изготовить пеноксицилин x4 -->
+  <Make_PenoxycylineBulk.label>синтезировать пеноксицилин x4</Make_PenoxycylineBulk.label>
+  <!-- EN: Изготовить пеноксицилин x4 -->
+  <Make_PenoxycylineBulk.description>Синтезировать пеноксицилин x4.</Make_PenoxycylineBulk.description>
+  <!-- EN: Изготавливает пеноксицилин x4 -->
+  <Make_PenoxycylineBulk.jobString>Синтезирует пеноксицилин x4</Make_PenoxycylineBulk.jobString>
   
   <!-- EN: изготовить психиновый чай -->
   <Make_PsychiteTea.label>заварить психиновый чай</Make_PsychiteTea.label>
@@ -229,6 +334,48 @@
   <Make_PsychiteTeaBulk.description>Заварить 4 чашки психинового чая.</Make_PsychiteTeaBulk.description>
   <!-- EN: Изготавливает психиновый чай x4 -->
   <Make_PsychiteTeaBulk.jobString>Заваривает 4 чашки психинового чая</Make_PsychiteTeaBulk.jobString>
+  
+  <!-- EN: изготовить косяк дымолиста -->
+  <Make_SmokeleafJoint.label>скрутить косяк</Make_SmokeleafJoint.label>
+  <!-- EN: Изготовить косяк дымолиста -->
+  <Make_SmokeleafJoint.description>Скрутить косяк.</Make_SmokeleafJoint.description>
+  <!-- EN: Изготавливает косяк дымолиста -->
+  <Make_SmokeleafJoint.jobString>Крутит косяк</Make_SmokeleafJoint.jobString>
+  
+  <!-- EN: изготовить косяк дымолиста x4-->
+  <Make_SmokeleafJointBulk.label>скрутить косяк x4</Make_SmokeleafJointBulk.label>
+  <!-- EN: Изготовить косяк дымолиста x4 -->
+  <Make_SmokeleafJointBulk.description>Скрутить косяк x4.</Make_SmokeleafJointBulk.description>
+  <!-- EN: Изготавливает косяк дымолиста x4 -->
+  <Make_SmokeleafJointBulk.jobString>Крутит косяк x4</Make_SmokeleafJointBulk.jobString>
+  
+  <!-- EN: изготовить бодрин -->
+  <Make_WakeUp.label>синтезировать бодрин</Make_WakeUp.label>
+  <!-- EN: Изготовить бодрин -->
+  <Make_WakeUp.description>Синтезировать бодрин.</Make_WakeUp.description>
+  <!-- EN: Изготавливает бодрин -->
+  <Make_WakeUp.jobString>Синтезирует бодрин</Make_WakeUp.jobString>
+  
+  <!-- EN: изготовить бодрин x4 -->
+  <Make_WakeUpBulk.label>синтезировать бодрин x4</Make_WakeUpBulk.label>
+  <!-- EN: Изготовить бодрин x4 -->
+  <Make_WakeUpBulk.description>Синтезировать бодрин x4.</Make_WakeUpBulk.description>
+  <!-- EN: Изготавливает бодрин x4 -->
+  <Make_WakeUpBulk.jobString>Синтезирует бодрин x4</Make_WakeUpBulk.jobString>
+  
+  <!-- EN: изготовить порошок психина -->
+  <Make_Yayo.label>получить порошок психина</Make_Yayo.label>
+  <!-- EN: Изготовить порошок психина -->
+  <Make_Yayo.description>Получить порошок психина.</Make_Yayo.description>
+  <!-- EN: Изготавливает порошок психина -->
+  <Make_Yayo.jobString>Получает порошок психина</Make_Yayo.jobString>
+  
+  <!-- EN: изготовить порошок психина x4 -->
+  <Make_YayoBulk.label>получить порошок психина x4</Make_YayoBulk.label>
+  <!-- EN: Изготовить порошок психина x4 -->
+  <Make_YayoBulk.description>Получить порошок психина x4.</Make_YayoBulk.description>
+  <!-- EN: Изготавливает порошок психина x4 -->
+  <Make_YayoBulk.jobString>Получает порошок психина x4</Make_YayoBulk.jobString>
   
   <!-- EN: изготовить огромную скульптуру -->
   <Make_SculptureGrand.label>изваять огромную скульптуру</Make_SculptureGrand.label>
@@ -250,26 +397,5 @@
   <Make_SculptureSmall.description>Изваять малую скульптуру.</Make_SculptureSmall.description>
   <!-- EN: Изготавливает малую скульптуру -->
   <Make_SculptureSmall.jobString>Ваяет скульптуру</Make_SculptureSmall.jobString>
-  
-  <!-- EN: изготовить косяк дымолиста -->
-  <Make_SmokeleafJoint.label>скрутить косяк</Make_SmokeleafJoint.label>
-  <!-- EN: Изготовить косяк дымолиста -->
-  <Make_SmokeleafJoint.description>Скрутить косяк.</Make_SmokeleafJoint.description>
-  <!-- EN: Изготавливает косяк дымолиста -->
-  <Make_SmokeleafJoint.jobString>Крутит косяк</Make_SmokeleafJoint.jobString>
-  
-  <!-- EN: изготовить бодрин -->
-  <Make_WakeUp.label>синтезировать бодрин</Make_WakeUp.label>
-  <!-- EN: Изготовить бодрин -->
-  <Make_WakeUp.description>Синтезировать бодрин.</Make_WakeUp.description>
-  <!-- EN: Изготавливает бодрин -->
-  <Make_WakeUp.jobString>Синтезирует бодрин</Make_WakeUp.jobString>
-  
-  <!-- EN: изготовить порошок психина -->
-  <Make_Yayo.label>получить порошок психина</Make_Yayo.label>
-  <!-- EN: Изготовить порошок психина -->
-  <Make_Yayo.description>Получить порошок психина.</Make_Yayo.description>
-  <!-- EN: Изготавливает порошок психина -->
-  <Make_Yayo.jobString>Получает порошок психина</Make_Yayo.jobString>
   
 </LanguageData>
