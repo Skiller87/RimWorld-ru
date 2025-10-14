@@ -41,23 +41,23 @@
   <!-- EN: make component -->
   <Make_ComponentIndustrial.label>изготовить компонент</Make_ComponentIndustrial.label>
   <!-- EN: Make a component. -->
-  <Make_ComponentIndustrial.description>Изготовить компонент.</Make_ComponentIndustrial.description>
+  <Make_ComponentIndustrial.description>Изготовьте компонент.</Make_ComponentIndustrial.description>
   <!-- EN: Making component. -->
   <Make_ComponentIndustrial.jobString>Изготавливает компонент</Make_ComponentIndustrial.jobString>
   
   <!-- EN: make advanced component -->
   <Make_ComponentSpacer.label>изготовить продвинутый компонент</Make_ComponentSpacer.label>
   <!-- EN: Make an advanced component. -->
-  <Make_ComponentSpacer.description>Изготовить продвинутый компонент.</Make_ComponentSpacer.description>
+  <Make_ComponentSpacer.description>Изготовьте продвинутый компонент.</Make_ComponentSpacer.description>
   <!-- EN: Making advanced component. -->
   <Make_ComponentSpacer.jobString>Изготавливает продвинутый компонент</Make_ComponentSpacer.jobString>
   
   <!-- EN: make patchleather -->
-  <Make_Patchleather.label>изготовить лоскутную кожу</Make_Patchleather.label>
+  <Make_Patchleather.label>Сшить лоскутную кожу</Make_Patchleather.label>
   <!-- EN: Combine various types of leather to create weak patchleather. -->
-  <Make_Patchleather.description>Сшить лоскуты кожи любых типов в единое полотно.</Make_Patchleather.description>
+  <Make_Patchleather.description>Сшейте лоскуты кожи любых типов в единое полотно.</Make_Patchleather.description>
   <!-- EN: Making patchleather. -->
-  <Make_Patchleather.jobString>Изготавливает лоскутную кожу</Make_Patchleather.jobString>
+  <Make_Patchleather.jobString>Шьёт лоскутную кожу</Make_Patchleather.jobString>
   
   <!-- EN: make any stone blocks -->
   <Make_StoneBlocksAny.label>изготовить любые каменные блоки</Make_StoneBlocksAny.label>
@@ -86,5 +86,27 @@
   <SmeltWeapon.description>Извлечь полезные ресурсы из оружия при помощи высокой температуры и мощных электромагнитов.</SmeltWeapon.description>
   <!-- EN: Smelting weapon. -->
   <SmeltWeapon.jobString>Переплавляет оружие</SmeltWeapon.jobString>
+  
+    <!-- EN: make bionic arm -->
+  <Make_BionicArm.label>изготовить бионическую руку</Make_BionicArm.label>
+  <!-- EN: Make a bionic arm. -->
+  <Make_BionicArm.description>Изготовьте бионическую руку.</Make_BionicArm.description>
+  <!-- EN: Making bionic arm. -->
+  <Make_BionicArm.jobString>Изготавливает бионическую руку</Make_BionicArm.jobString>
+    
+  <!-- EN: Make bionic jaw -->
+  <Make_BionicJaw.label>изготовить бионическую челюсть</Make_BionicJaw.label>
+  <!-- EN: Make bionic jaw. -->
+  <Make_BionicJaw.description>Изготовьте бионическую челюсть.</Make_BionicJaw.description>
+  <!-- EN: Making bionic jaw. -->
+  <Make_BionicJaw.jobString>Изготавливает бионическую челюсть</Make_BionicJaw.jobString>
+  
+  <!-- EN: make bionic leg -->
+  <Make_BionicLeg.label>изготовить бионическую ногу</Make_BionicLeg.label>
+  <!-- EN: Make a bionic leg. -->
+  <Make_BionicLeg.description>Изготовьте бионическую ногу.</Make_BionicLeg.description>
+  <!-- EN: Making bionic leg. -->
+  <Make_BionicLeg.jobString>Изготавливает бионическую ногу</Make_BionicLeg.jobString>
+  
   
 </LanguageData>

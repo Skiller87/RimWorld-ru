@@ -346,14 +346,14 @@
     <li>townEndToxic->тот</li>
     <li>townEndToxic->зун</li>
     <li>townEndToxic->хим</li>
-    <li>townNameCombo->[poisonous_masc] [town_masc]</li>
-    <li>townNameCombo->[poisonous_fem] [town_fem]</li>
-    <li>town_masc->город</li>
-    <li>town_masc->форт</li>
-    <li>town_masc->порт</li>
-    <li>town_fem->база</li>
-    <li>town_fem->бойня</li>
-    <li>town_fem->яма</li>
+    <!-- <li>townNameCombo->[poisonous_masc] [town_masc]</li> -->
+    <!-- <li>townNameCombo->[poisonous_fem] [town_fem]</li> -->
+    <!-- <li>town_masc->город</li> -->
+    <!-- <li>town_masc->форт</li> -->
+    <!-- <li>town_masc->порт</li> -->
+    <!-- <li>town_fem->база</li> -->
+    <!-- <li>town_fem->бойня</li> -->
+    <!-- <li>town_fem->яма</li> -->
   </NamerSettlementPirateWaster.rulePack.rulesStrings>
   
   <!-- EN:

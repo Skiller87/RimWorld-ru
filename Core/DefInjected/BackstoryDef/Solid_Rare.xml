@@ -123,4 +123,19 @@
   <!-- EN: punk -->
   <TynanCustomChildhood.titleShort>шпана</TynanCustomChildhood.titleShort>
   
+  
+  <!-- EN: [PAWN_nameDef] designed elaborate entertainment mazes for the glitterworld elite. Even now, [PAWN_pronoun] thinks of little else. -->
+  <WillCustomAdulthood.description>{PAWN_nameDef} {PAWN_gender ? проектировал : проектрировала} сложные развлекательные лабиринты для элиты глиттермира. Даже сейчас {PAWN_pronoun} живёт этими воспоминаниями.</WillCustomAdulthood.description>
+  <!-- EN: labyrinth maker -->
+  <WillCustomAdulthood.title>Дизайнер лабиринтов</WillCustomAdulthood.title>
+  <!-- EN: labyrinth maker -->
+  <WillCustomAdulthood.titleShort>дизайнер</WillCustomAdulthood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a research camp on a deadworld. [PAWN_possessive] parents were astrobiologists studying mysterious labyrinthine formations beneath the planet's crust. [PAWN_pronoun] spent most of his time wandering those tunnels, wondering what otherworldly entity could have created them. -->
+  <WillCustomChildhood.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} в исследовательском лагере на мёртвой планете. Родители {PAWN_possessive} были астробиологами и изучали загадочные лабиринтоподобные образования под поверхностью планеты. {PAWN_pronoun} {PAWN_gender ? проводил : проводила} большую часть времени, бродя по этим туннелям и размышляя, какое неземное существо могло их создать.</WillCustomChildhood.description>
+  <!-- EN: maze child -->
+  <WillCustomChildhood.title>дитя лабиринта</WillCustomChildhood.title>  <!-- EN: maze child -->
+  <WillCustomChildhood.titleShort>лабиринтовед</WillCustomChildhood.titleShort>
+
+  
 </LanguageData>

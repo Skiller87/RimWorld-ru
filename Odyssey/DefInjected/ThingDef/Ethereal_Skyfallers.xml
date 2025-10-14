@@ -1,8 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: ancient drop pod (incoming) -->
+  <DropPodIncomingAncient.label>транспортная капсула древних (прибытие)</DropPodIncomingAncient.label>
+  
   <!-- EN: drop pod (incoming) -->
   <DropPodIncomingMechanoidSoft.label>транспортная капсула (прибытие)</DropPodIncomingMechanoidSoft.label>
+  
+  <!-- EN: ancient drop pod (leaving) -->
+  <DropPodLeavingAncient.label>транспортная капсула древних (отбытие)</DropPodLeavingAncient.label>
   
   <!-- EN: mechanoid drop pod (leaving) -->
   <DropPodLeavingMechanoid.label>транспортная капсула механоидов (отбытие)</DropPodLeavingMechanoid.label>

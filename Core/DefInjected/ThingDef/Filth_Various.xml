@@ -11,7 +11,7 @@
   <Filth_Ash.label>пепел</Filth_Ash.label>
   
   <!-- EN: blast mark -->
-  <Filth_BlastMark.label>отметина от взрыва</Filth_BlastMark.label>
+  <Filth_BlastMark.label>след от взрыва</Filth_BlastMark.label>
   
   <!-- EN: blood -->
   <Filth_Blood.label>кровь</Filth_Blood.label>
@@ -35,9 +35,9 @@
   <Filth_Fuel.label>топливная лужа</Filth_Fuel.label>
   <!-- EN: A puddle of flammable chemfuel. -->
   <Filth_Fuel.description>Загорится, если поджечь.</Filth_Fuel.description>
-  
+
   <!-- EN: gestation fluid -->
-  <Filth_GestationFluid.label>гестационная жидкость</Filth_GestationFluid.label>
+  <Filth_GestationFluid.label>гестаторный раствор</Filth_GestationFluid.label>
   
   <!-- EN: hair -->
   <Filth_Hair.label>волосы</Filth_Hair.label>
@@ -55,7 +55,7 @@
   <Filth_OilSmear.label>масляное пятно</Filth_OilSmear.label>
   
   <!-- UNUSED -->
-  <Filth_RevenantBlood.label>кровь ревенанта</Filth_RevenantBlood.label>
+  <!-- <Filth_RevenantBlood.label>кровь ревенанта</Filth_RevenantBlood.label> -->
   
   <!-- EN: building rubble -->
   <Filth_RubbleBuilding.label>строительный мусор</Filth_RubbleBuilding.label>

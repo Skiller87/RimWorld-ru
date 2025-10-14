@@ -4,15 +4,29 @@
   <!-- EN: install detoxifier kidney -->
   <InstallDetoxifierKidney.label>вживить детоксицирующую почку</InstallDetoxifierKidney.label>
   <!-- EN: Install a detoxifier kidney. -->
-  <InstallDetoxifierKidney.description>Вживить детоксицирующую почку.</InstallDetoxifierKidney.description>
+  <InstallDetoxifierKidney.description>Вживите детоксицирующую почку.</InstallDetoxifierKidney.description>
   <!-- EN: Installing detoxifier kidney. -->
   <InstallDetoxifierKidney.jobString>Вживляет детоксицирующую почку</InstallDetoxifierKidney.jobString>
   
   <!-- EN: install detoxifier lung -->
   <InstallDetoxifierLung.label>вживить детоксицирующее лёгкое</InstallDetoxifierLung.label>
   <!-- EN: Install a detoxifier lung. -->
-  <InstallDetoxifierLung.description>Вживить детоксицирующее лёгкое.</InstallDetoxifierLung.description>
+  <InstallDetoxifierLung.description>Вживите детоксицирующее лёгкое.</InstallDetoxifierLung.description>
   <!-- EN: Installing detoxifier lung. -->
   <InstallDetoxifierLung.jobString>Вживляет детоксицирующее лёгкое</InstallDetoxifierLung.jobString>
+  
+  <!-- EN: remove detoxifier kidney -->
+  <!-- <RemoveDetoxifierKidney.label>удалить детоксицирующую почку</RemoveDetoxifierKidney.label> -->
+  <!-- EN: Remove a detoxifier kidney. -->
+  <!-- <RemoveDetoxifierKidney.description>Удалите детоксицирующую почку.</RemoveDetoxifierKidney.description> -->
+  <!-- EN: Removing detoxifier kidney. -->
+  <!-- <RemoveDetoxifierKidney.jobString>Удаляет детоксицирующую почку</RemoveDetoxifierKidney.jobString> -->
+  
+  <!-- EN: remove detoxifier lung -->
+  <!-- <RemoveDetoxifierLung.label>удалить детоксицирующее лёгкое</RemoveDetoxifierLung.label> -->
+  <!-- EN: Remove a detoxifier lung. -->
+  <!-- <RemoveDetoxifierLung.description>Удалите детоксицирующее лёгкое.</RemoveDetoxifierLung.description> -->
+  <!-- EN: Removing detoxifier lung. -->
+  <!-- <RemoveDetoxifierLung.jobString>Удаляет детоксицирующее лёгкое</RemoveDetoxifierLung.jobString> -->
   
 </LanguageData>

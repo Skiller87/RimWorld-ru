@@ -212,7 +212,7 @@
   <!-- EN: xenogenetics -->
   <Xenogermination.label>ксеногенетика</Xenogermination.label>
   <!-- EN: Create xenogerms which can be implanted in a person to genetically modify them. Extract genepacks from living people using a gene extractor so you can reimplant their genes into someone else. -->
-  <Xenogermination.description>Создание ксеносемян, которые можно вживлять в людей с целью генетической модификации последних. При помощи генного экстрактора из живого человека можно извлечь генные пакеты, чтобы вживить их в кого-то другого.</Xenogermination.description>
+  <Xenogermination.description>Создание ксеносемян, которые можно вживлять в людей с целью генетической модификации последних. При помощи генного экстрактора из живого человека можно извлечь генные пакеты, чтобы имплантировать их в кого-то другого.</Xenogermination.description>
   <!-- EN:
     <li>subject->xenogermination</li>
     <li>subject->genetic implantation</li>

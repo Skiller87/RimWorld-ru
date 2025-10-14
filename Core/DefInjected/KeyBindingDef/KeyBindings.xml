@@ -22,6 +22,12 @@
   <!-- EN: deconstruct -->
   <Designator_Deconstruct.label>разобрать</Designator_Deconstruct.label>
   
+  <!-- EN: next draw style -->
+  <Designator_NextDrawStyle.label>следующий стиль рисования </Designator_NextDrawStyle.label>
+  
+  <!-- EN: previous draw style -->
+  <Designator_PreviousDrawStyle.label>предыдущий стиль рисования</Designator_PreviousDrawStyle.label>
+  
   <!-- EN: rotate left -->
   <Designator_RotateLeft.label>повернуть влево</Designator_RotateLeft.label>
   
@@ -30,7 +36,10 @@
   
   <!-- EN: change selected debug action -->
   <Dev_ChangeSelectedDebugAction.label>выбрать другое отладочное действие</Dev_ChangeSelectedDebugAction.label>
-  
+
+  <!-- EN: force square dimensions -->
+  <Designator_ShapeSnap.label>сделать объект квадратным</Designator_ShapeSnap.label>
+    
   <!-- EN: tick once -->
   <Dev_TickOnce.label>отладка: следующий тик</Dev_TickOnce.label>
   

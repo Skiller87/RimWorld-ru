@@ -10,6 +10,11 @@
   <DestroyedMechhive.stages.destroyed_mechhive.label>уничтоженный мехрой</DestroyedMechhive.stages.destroyed_mechhive.label>
   <!-- EN: We defeated them! We're free of them now. -->
   <DestroyedMechhive.stages.destroyed_mechhive.description>Мы победили их! Теперь мы свободны.</DestroyedMechhive.stages.destroyed_mechhive.description>
+
+  <!-- EN: destroyed mechhive -->
+  <DestroyedMechhiveMainPawn.stages.destroyed_mechhive.label>уничтоженный мехрой</DestroyedMechhiveMainPawn.stages.destroyed_mechhive.label>
+  <!-- EN: I destroyed the cerebrex core. We're finally free of the mechanoid threat. -->
+  <DestroyedMechhiveMainPawn.stages.destroyed_mechhive.description>Я уничтожил ядро церебрекса. Мы наконец-то свободны от угрозы механоидов.</DestroyedMechhiveMainPawn.stages.destroyed_mechhive.description>
   
   <!-- EN: hot spring -->
   <HotSpring.stages.hot_spring.label>горячий источник</HotSpring.stages.hot_spring.label>

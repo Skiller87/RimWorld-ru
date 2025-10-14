@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Catch fish in fishing zones. -->
+  <Fishing.description>Ловите рыбу в рыболовных зонах</Fishing.description>
+  <!-- EN: fishing -->
+  <Fishing.gerundLabel>Рыбалка</Fishing.gerundLabel>
+  <!-- EN: fish -->
+  <Fishing.labelShort>рыба</Fishing.labelShort>
+  <!-- EN: Fisher -->
+  <Fishing.pawnLabel>Рыболов</Fishing.pawnLabel>
+  <!-- EN: Fishing at -->
+  <Fishing.verb>Рыбалка в</Fishing.verb>
+  
+</LanguageData>
