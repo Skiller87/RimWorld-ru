@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make vacskin gland -->
+  <Make_VacskinGland.label>изготовить железу вакуумитовой кожи</Make_VacskinGland.label>
+  <!-- EN: Make a vacskin gland. -->
+  <Make_VacskinGland.description>Изготовьте железу вакуумитовой кожи.</Make_VacskinGland.description>
+  <!-- EN: Making vacskin gland. -->
+  <Make_VacskinGland.jobString>Изготавливает железу вакуумитовой кожи</Make_VacskinGland.jobString>
+  
+</LanguageData>

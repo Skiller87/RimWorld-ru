@@ -105,6 +105,23 @@
   <!-- EN: extreme -->
   <Plague.stages.extreme-1.label>смертельная</Plague.stages.extreme-1.label>
   
+  <!-- EN: scaria infection -->
+  <ScariaInfection.label>заражение скарией</ScariaInfection.label>
+  <!-- EN: An infection caused by scaria bacterium. If not treated, the infection will eventually drive the host into a berserk rage. -->
+  <ScariaInfection.description>Инфекция, вызванная бактерией скарии. Если не лечить, со временем инфекция приведёт хозяина в неистовство.</ScariaInfection.description>
+  <!-- EN: Scaria: {PAWN_nameDef} -->
+  <ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>Скария: {PAWN_nameDef}</ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>
+  <!-- EN: {PAWN_nameDef} has developed scaria from {PAWN_possessive} infection, driving {PAWN_objective} into a berserk rage. Scaria can be cured with a special medical operation, but {PAWN_nameDef} must first be downed. -->
+  <ScariaInfection.comps.HediffComp_GiveHediff.letterText>{PAWN_nameDef} {PAWN_gender ? заразился : заразилась} инфекцией скариии от {PAWN_possessive}, вызывая у {PAWN_objective} неистовство. Скария лечится специальной медицинской операцией, но сначала {PAWN_nameDef} необходимо обездвижить.</ScariaInfection.comps.HediffComp_GiveHediff.letterText>
+  <!-- EN: a scaria infection -->
+  <ScariaInfection.labelNoun>заражение скарией</ScariaInfection.labelNoun>
+  <!-- EN: minor -->
+  <ScariaInfection.stages.minor.label>лёгкая</ScariaInfection.stages.minor.label>
+  <!-- EN: major -->
+  <ScariaInfection.stages.major.label>средняя</ScariaInfection.stages.major.label>
+  <!-- EN: extreme -->
+  <ScariaInfection.stages.extreme.label>тяжёлая</ScariaInfection.stages.extreme.label>
+  
   <!-- EN: sensory mechanites -->
   <SensoryMechanites.label>сенсо́рные механиты</SensoryMechanites.label>
   <!-- EN: Semi-coherent mechanites which reside in the nervous system. They enhance the victim's senses, but also cause intense pain. These are probably a mutated strain of sense-enhancing mechanites. -->

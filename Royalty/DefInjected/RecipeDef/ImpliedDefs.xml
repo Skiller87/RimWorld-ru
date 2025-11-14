@@ -3,72 +3,164 @@
   
   <!-- EN: изготовить берет -->
   <Make_Apparel_Beret.label>сшить берет</Make_Apparel_Beret.label>
-  <!-- EN: Изготовить берет -->
-  <Make_Apparel_Beret.description>Сшить берет</Make_Apparel_Beret.description>
+  <!-- EN: Изготовьте берет -->
+  <Make_Apparel_Beret.description>Сшейте берет</Make_Apparel_Beret.description>
   <!-- EN: Изготавливает берет -->
   <Make_Apparel_Beret.jobString>Шьёт берет</Make_Apparel_Beret.jobString>
   
   <!-- EN: изготовить коронетку -->
   <Make_Apparel_Coronet.label>выковать коронетку</Make_Apparel_Coronet.label>
-  <!-- EN: Изготовить коронетку -->
-  <Make_Apparel_Coronet.description>Выковать коронетку</Make_Apparel_Coronet.description>
+  <!-- EN: Изготовьте коронетку -->
+  <Make_Apparel_Coronet.description>Вы́куйте коронетку</Make_Apparel_Coronet.description>
   <!-- EN: Изготавливает коронетку -->
   <Make_Apparel_Coronet.jobString>Куёт коронетку</Make_Apparel_Coronet.jobString>
   
+  <!-- EN: изготовить корону -->
+  <Make_Apparel_Crown.label>выковать корону</Make_Apparel_Crown.label>
+  <!-- EN: Изготовьте корону -->
+  <Make_Apparel_Crown.description>Вы́куйте корону</Make_Apparel_Crown.description>
+  <!-- EN: Изготавливает корону -->
+  <Make_Apparel_Crown.jobString>Куёт корону</Make_Apparel_Crown.jobString>
+  
   <!-- EN: изготовить корсет -->
   <Make_Apparel_Corset.label>сшить корсет</Make_Apparel_Corset.label>
-  <!-- EN: Изготовить корсет -->
-  <Make_Apparel_Corset.description>Сшить корсет</Make_Apparel_Corset.description>
+  <!-- EN: Изготовьте корсет -->
+  <Make_Apparel_Corset.description>Сшейте корсет</Make_Apparel_Corset.description>
   <!-- EN: Изготавливает корсет -->
   <Make_Apparel_Corset.jobString>Шьёт корсет</Make_Apparel_Corset.jobString>
   
   <!-- EN: изготовить дамскую шляпку -->
   <Make_Apparel_HatLadies.label>сшить дамскую шляпку</Make_Apparel_HatLadies.label>
-  <!-- EN: Изготовить дамскую шляпку -->
-  <Make_Apparel_HatLadies.description>Сшить дамскую шляпку</Make_Apparel_HatLadies.description>
+  <!-- EN: Изготовьте дамскую шляпку -->
+  <Make_Apparel_HatLadies.description>Сшейте дамскую шляпку</Make_Apparel_HatLadies.description>
   <!-- EN: Изготавливает дамскую шляпку -->
   <Make_Apparel_HatLadies.jobString>Шьёт дамскую шляпку</Make_Apparel_HatLadies.jobString>
   
   <!-- EN: изготовить шляпу-цилиндр -->
   <Make_Apparel_HatTop.label>сшить шляпу-цилиндр</Make_Apparel_HatTop.label>
-  <!-- EN: Изготовить шляпу-цилиндр -->
-  <Make_Apparel_HatTop.description>Сшить шляпу-цилиндр</Make_Apparel_HatTop.description>
+  <!-- EN: Изготовьте шляпу-цилиндр -->
+  <Make_Apparel_HatTop.description>Сшейте шляпу-цилиндр</Make_Apparel_HatTop.description>
   <!-- EN: Изготавливает шляпу-цилиндр -->
   <Make_Apparel_HatTop.jobString>Шьёт шляпу-цилиндр</Make_Apparel_HatTop.jobString>
   
   <!-- EN: изготовить роскошную мантию -->
   <Make_Apparel_RobeRoyal.label>сшить роскошную мантию</Make_Apparel_RobeRoyal.label>
-  <!-- EN: Изготовить роскошную мантию -->
-  <Make_Apparel_RobeRoyal.description>Сшить роскошную мантию</Make_Apparel_RobeRoyal.description>
+  <!-- EN: Изготовьте роскошную мантию -->
+  <Make_Apparel_RobeRoyal.description>Сшейте роскошную мантию</Make_Apparel_RobeRoyal.description>
   <!-- EN: Изготавливает роскошную мантию -->
   <Make_Apparel_RobeRoyal.jobString>Шьёт роскошную мантию</Make_Apparel_RobeRoyal.jobString>
   
   <!-- EN: изготовить деловую рубашку -->
   <Make_Apparel_ShirtRuffle.label>сшить деловую рубашку</Make_Apparel_ShirtRuffle.label>
-  <!-- EN: Изготовить деловую рубашку -->
-  <Make_Apparel_ShirtRuffle.description>Сшить деловую рубашку</Make_Apparel_ShirtRuffle.description>
+  <!-- EN: Изготовьте деловую рубашку -->
+  <Make_Apparel_ShirtRuffle.description>Сшейте деловую рубашку</Make_Apparel_ShirtRuffle.description>
   <!-- EN: Изготавливает деловую рубашку -->
   <Make_Apparel_ShirtRuffle.jobString>Шьёт деловую рубашку</Make_Apparel_ShirtRuffle.jobString>
   
   <!-- EN: изготовить деловой жилет -->
   <Make_Apparel_VestRoyal.label>сшить деловой жилет</Make_Apparel_VestRoyal.label>
-  <!-- EN: Изготовить деловой жилет -->
-  <Make_Apparel_VestRoyal.description>Сшить деловой жилет</Make_Apparel_VestRoyal.description>
+  <!-- EN: Изготовьте деловой жилет -->
+  <Make_Apparel_VestRoyal.description>Сшейте деловой жилет</Make_Apparel_VestRoyal.description>
   <!-- EN: Изготавливает деловой жилет -->
   <Make_Apparel_VestRoyal.jobString>Шьёт деловой жилет</Make_Apparel_VestRoyal.jobString>
   
   <!-- EN: изготовить топор -->
   <Make_MeleeWeapon_Axe.label>выковать топор</Make_MeleeWeapon_Axe.label>
-  <!-- EN: Изготовить топор -->
-  <Make_MeleeWeapon_Axe.description>Выковать топор</Make_MeleeWeapon_Axe.description>
+  <!-- EN: Изготовьте топор -->
+  <Make_MeleeWeapon_Axe.description>Вы́куйте топор</Make_MeleeWeapon_Axe.description>
   <!-- EN: Изготавливает топор -->
   <Make_MeleeWeapon_Axe.jobString>Куёт топор</Make_MeleeWeapon_Axe.jobString>
   
   <!-- EN: изготовить молот -->
   <Make_MeleeWeapon_Warhammer.label>выковать молот</Make_MeleeWeapon_Warhammer.label>
-  <!-- EN: Изготовить молот -->
-  <Make_MeleeWeapon_Warhammer.description>Выковать молот</Make_MeleeWeapon_Warhammer.description>
+  <!-- EN: Изготовьте молот -->
+  <Make_MeleeWeapon_Warhammer.description>Вы́куйте молот</Make_MeleeWeapon_Warhammer.description>
   <!-- EN: Изготавливает молот -->
   <Make_MeleeWeapon_Warhammer.jobString>Куёт молот</Make_MeleeWeapon_Warhammer.jobString>
   
+    <!-- EN: make drill arm -->
+  <Make_DrillArm.label>изготовить руку-бур</Make_DrillArm.label>
+  <!-- EN: Make a drill arm. -->
+  <Make_DrillArm.description>Изготовьте руку-бур.</Make_DrillArm.description>
+  <!-- EN: Making drill arm. -->
+  <Make_DrillArm.jobString>Изготавливает руку-бур</Make_DrillArm.jobString>
+  
+    <!-- EN: make field hand -->
+  <Make_FieldHand.label>изготовить агроруку</Make_FieldHand.label>
+  <!-- EN: Make a field hand. -->
+  <Make_FieldHand.description>Изготовьте агроруку.</Make_FieldHand.description>
+  <!-- EN: Making field hand. -->
+  <Make_FieldHand.jobString>Изготавливает агроруку</Make_FieldHand.jobString>
+  
+  <!-- EN: make cataphract armor -->
+  <Make_Apparel_ArmorCataphract.label>изготовить катафрактарскую броню</Make_Apparel_ArmorCataphract.label>
+  <!-- EN: Make a cataphract armor. -->
+  <Make_Apparel_ArmorCataphract.description>Изготовьте катафрактарскую броню.</Make_Apparel_ArmorCataphract.description>
+  <!-- EN: Making cataphract armor. -->
+  <Make_Apparel_ArmorCataphract.jobString>Изготавливает катафрактарскую броню</Make_Apparel_ArmorCataphract.jobString>
+  
+  <!-- EN: make phoenix armor -->
+  <Make_Apparel_ArmorCataphractPhoenix.label>изготовить броню «феникса»</Make_Apparel_ArmorCataphractPhoenix.label>
+  <!-- EN: Make a phoenix armor. -->
+  <Make_Apparel_ArmorCataphractPhoenix.description>Изготовьте броню «феникса».</Make_Apparel_ArmorCataphractPhoenix.description>
+  <!-- EN: Making phoenix armor. -->
+  <Make_Apparel_ArmorCataphractPhoenix.jobString>Изготавливает броню «феникса»</Make_Apparel_ArmorCataphractPhoenix.jobString>
+  
+  <!-- EN: make prestige cataphract armor -->
+  <Make_Apparel_ArmorCataphractPrestige.label>изготовить роскошную катафрактарскую броню</Make_Apparel_ArmorCataphractPrestige.label>
+  <!-- EN: Make a prestige cataphract armor. -->
+  <Make_Apparel_ArmorCataphractPrestige.description>Изготовьте роскошную катафрактарскую броню.</Make_Apparel_ArmorCataphractPrestige.description>
+  <!-- EN: Making prestige cataphract armor. -->
+  <Make_Apparel_ArmorCataphractPrestige.jobString>Изготавливает роскошную катафрактарскую броню</Make_Apparel_ArmorCataphractPrestige.jobString>
+  
+  <!-- EN: make locust armor -->
+  <Make_Apparel_ArmorLocust.label>изготовить броню «богомола»</Make_Apparel_ArmorLocust.label>
+  <!-- EN: Make locustarmor. -->
+  <Make_Apparel_ArmorLocust.description>Изготовьте броню «богомола».</Make_Apparel_ArmorLocust.description>
+  <!-- EN: Making locust armor. -->
+  <Make_Apparel_ArmorLocust.jobString>Изготавливает броню «богомола»</Make_Apparel_ArmorLocust.jobString>
+  
+  <!-- EN: make grenadier armor -->
+  <Make_Apparel_ArmorMarineGrenadier.label>изготовить гренадерскую броню</Make_Apparel_ArmorMarineGrenadier.label>
+  <!-- EN: Make a grenadier armor. -->
+  <Make_Apparel_ArmorMarineGrenadier.description>Изготовьте гренадерскую броню.</Make_Apparel_ArmorMarineGrenadier.description>
+  <!-- EN: Making grenadier armor. -->
+  <Make_Apparel_ArmorMarineGrenadier.jobString>Изготавливает гренадерскую броню</Make_Apparel_ArmorMarineGrenadier.jobString>  
+  
+  <!-- EN: make prestige marine armor -->
+  <Make_Apparel_ArmorMarinePrestige.label>изготовить роскошную пехотную броню</Make_Apparel_ArmorMarinePrestige.label>
+  <!-- EN: Make a prestige marine armor. -->
+  <Make_Apparel_ArmorMarinePrestige.description>Изготовьте роскошную пехотную броню.</Make_Apparel_ArmorMarinePrestige.description>
+  <!-- EN: Making prestige marine armor. -->
+  <Make_Apparel_ArmorMarinePrestige.jobString>Изготавливает роскошную пехотную броню</Make_Apparel_ArmorMarinePrestige.jobString>
+
+  <!-- EN: make prestige recon armor -->
+  <Make_Apparel_ArmorReconPrestige.label>изготовить роскошную разведброню</Make_Apparel_ArmorReconPrestige.label>
+  <!-- EN: Make a prestige recon armor. -->
+  <Make_Apparel_ArmorReconPrestige.description>Изготовьте роскошную разведброню.</Make_Apparel_ArmorReconPrestige.description>
+  <!-- EN: Making prestige recon armor. -->
+  <Make_Apparel_ArmorReconPrestige.jobString>Изготавливает роскошную разведброню</Make_Apparel_ArmorReconPrestige.jobString>
+    
+    <!-- EN: make armorskin gland -->
+  <Make_ArmorskinGland.label>изготовить бронирующую железу</Make_ArmorskinGland.label>
+  <!-- EN: Make an armorskin gland. -->
+  <Make_ArmorskinGland.description>Изготовьте бронирующую железу.</Make_ArmorskinGland.description>
+  <!-- EN: Making armorskin gland. -->
+  <Make_ArmorskinGland.jobString>Изготавливает бронирующую железу</Make_ArmorskinGland.jobString>
+  
+    <!-- EN: make stoneskin gland -->
+  <Make_StoneskinGland.label>изготовить железу каменной кожи</Make_StoneskinGland.label>
+  <!-- EN: Make a stoneskin gland. -->
+  <Make_StoneskinGland.description>Изготовьте железу каменной кожи.</Make_StoneskinGland.description>
+  <!-- EN: Making stoneskin gland. -->
+  <Make_StoneskinGland.jobString>Изготавливает железу каменной кожи</Make_StoneskinGland.jobString>
+  
+  <!-- EN: make toughskin gland -->
+  <Make_ToughskinGland.label>изготовить железу твёрдой кожи</Make_ToughskinGland.label>
+  <!-- EN: Make a toughskin gland. -->
+  <Make_ToughskinGland.description>Изготовьте железу твёрдой кожи.</Make_ToughskinGland.description>
+  <!-- EN: Making toughskin gland. -->
+  <Make_ToughskinGland.jobString>Изготавливает железу твёрдой кожи</Make_ToughskinGland.jobString>
+  
+
 </LanguageData>

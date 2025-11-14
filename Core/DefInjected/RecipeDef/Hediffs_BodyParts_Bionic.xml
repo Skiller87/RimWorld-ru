@@ -4,71 +4,141 @@
   <!-- EN: install bionic arm -->
   <InstallBionicArm.label>вживить бионическую руку</InstallBionicArm.label>
   <!-- EN: Install a bionic arm. -->
-  <InstallBionicArm.description>Вживить бионическую руку.</InstallBionicArm.description>
+  <InstallBionicArm.description>Вживите бионическую руку.</InstallBionicArm.description>
   <!-- EN: Installing bionic arm. -->
   <InstallBionicArm.jobString>Вживляет бионическую руку</InstallBionicArm.jobString>
   
   <!-- EN: install bionic ear -->
   <InstallBionicEar.label>вживить бионическое ухо</InstallBionicEar.label>
   <!-- EN: Install a bionic ear. -->
-  <InstallBionicEar.description>Вживить бионическое ухо.</InstallBionicEar.description>
+  <InstallBionicEar.description>Вживите бионическое ухо.</InstallBionicEar.description>
   <!-- EN: Installing bionic ear. -->
   <InstallBionicEar.jobString>Вживляет бионическое ухо</InstallBionicEar.jobString>
   
   <!-- EN: install bionic eye -->
   <InstallBionicEye.label>вживить бионический глаз</InstallBionicEye.label>
   <!-- EN: Install a bionic eye. -->
-  <InstallBionicEye.description>Вживить бионический глаз.</InstallBionicEye.description>
+  <InstallBionicEye.description>Вживите бионический глаз.</InstallBionicEye.description>
   <!-- EN: Installing bionic eye. -->
   <InstallBionicEye.jobString>Вживляет бионический глаз</InstallBionicEye.jobString>
   
   <!-- EN: install bionic heart -->
-  <InstallBionicHeart.label>имплантировать бионическое сердце</InstallBionicHeart.label>
+  <InstallBionicHeart.label>вживить бионическое сердце</InstallBionicHeart.label>
   <!-- EN: Install a bionic heart. -->
-  <InstallBionicHeart.description>Имплантировать бионическое сердце.</InstallBionicHeart.description>
+  <InstallBionicHeart.description>Вживите бионическое сердце.</InstallBionicHeart.description>
   <!-- EN: Installing bionic heart. -->
-  <InstallBionicHeart.jobString>Имплантирует бионическое сердце</InstallBionicHeart.jobString>
+  <InstallBionicHeart.jobString>Вживляет бионическое сердце</InstallBionicHeart.jobString>
   
   <!-- EN: Install bionic jaw -->
   <InstallBionicJaw.label>вживить бионическую челюсть</InstallBionicJaw.label>
   <!-- EN: Install bionic jaw. -->
-  <InstallBionicJaw.description>Вживить бионическую челюсть.</InstallBionicJaw.description>
+  <InstallBionicJaw.description>Вживите бионическую челюсть.</InstallBionicJaw.description>
   <!-- EN: Installing bionic jaw. -->
   <InstallBionicJaw.jobString>Вживляет бионическую челюсть</InstallBionicJaw.jobString>
   
   <!-- EN: install bionic leg -->
   <InstallBionicLeg.label>вживить бионическую ногу</InstallBionicLeg.label>
   <!-- EN: Install a bionic leg. -->
-  <InstallBionicLeg.description>Вживить бионическую ногу.</InstallBionicLeg.description>
+  <InstallBionicLeg.description>Вживите бионическую ногу.</InstallBionicLeg.description>
   <!-- EN: Installing bionic leg. -->
   <InstallBionicLeg.jobString>Вживляет бионическую ногу</InstallBionicLeg.jobString>
   
   <!-- EN: install bionic spine -->
   <InstallBionicSpine.label>вживить бионический позвоночник</InstallBionicSpine.label>
   <!-- EN: Install a bionic spine. -->
-  <InstallBionicSpine.description>Вживить бионический позвоночник.</InstallBionicSpine.description>
+  <InstallBionicSpine.description>Вживите бионический позвоночник.</InstallBionicSpine.description>
   <!-- EN: Installing bionic spine. -->
   <InstallBionicSpine.jobString>Вживляет бионический позвоночник</InstallBionicSpine.jobString>
   
   <!-- EN: install bionic stomach -->
   <InstallBionicStomach.label>вживить бионический желудок</InstallBionicStomach.label>
   <!-- EN: Install a bionic stomach. -->
-  <InstallBionicStomach.description>Вживить бионический желудок.</InstallBionicStomach.description>
+  <InstallBionicStomach.description>Вживите бионический желудок.</InstallBionicStomach.description>
   <!-- EN: Installing bionic stomach. -->
   <InstallBionicStomach.jobString>Вживляет бионический желудок</InstallBionicStomach.jobString>
   
   <!-- EN: install bionic tongue -->
   <InstallBionicTongue.label>вживить бионический язык</InstallBionicTongue.label>
   <!-- EN: Install a bionic tongue. -->
-  <InstallBionicTongue.description>Вживить бионический язык.</InstallBionicTongue.description>
+  <InstallBionicTongue.description>Вживите бионический язык.</InstallBionicTongue.description>
   <!-- EN: Installing bionic tongue. -->
   <InstallBionicTongue.jobString>Вживляет бионический язык</InstallBionicTongue.jobString>
   
   <!-- EN: install death acidifier -->
   <InstallDeathAcidifier.label>вживить посмертный растворитель</InstallDeathAcidifier.label>
   <!-- EN: Install a death acidifier. -->
-  <InstallDeathAcidifier.description>Вживить посмертный растворитель.</InstallDeathAcidifier.description>
+  <InstallDeathAcidifier.description>Вживите посмертный растворитель.</InstallDeathAcidifier.description>
   <!-- EN: Installing death acidifier. -->
   <InstallDeathAcidifier.jobString>Вживляет посмертный растворитель</InstallDeathAcidifier.jobString>
+  
+   <!-- EN: remove bionic arm -->
+  <!-- <RemoveBionicArm.label>удалить бионическую руку</RemoveBionicArm.label> -->
+  <!-- EN: Remove a bionic arm. -->
+  <!-- <RemoveBionicArm.description>Удалите бионическую руку.</RemoveBionicArm.description> -->
+  <!-- EN: Removing bionic arm. -->
+  <!-- <RemoveBionicArm.jobString>Удаляет бионическую руку</RemoveBionicArm.jobString> -->
+  
+  <!-- EN: remove bionic ear -->
+  <!-- <RemoveBionicEar.label>удалить бионическое ухо</RemoveBionicEar.label> -->
+  <!-- EN: Remove a bionic ear. -->
+  <!-- <RemoveBionicEar.description>Удалите бионическое ухо.</RemoveBionicEar.description> -->
+  <!-- EN: Removing bionic ear. -->
+  <!-- <RemoveBionicEar.jobString>Удаляет бионическое ухо</RemoveBionicEar.jobString> -->
+  
+  <!-- EN: remove bionic eye -->
+  <!-- <RemoveBionicEye.label>удалить бионический глаз</RemoveBionicEye.label> -->
+  <!-- EN: Remove a bionic eye. -->
+  <!-- <RemoveBionicEye.description>Удалите бионический глаз.</RemoveBionicEye.description> -->
+  <!-- EN: Removing bionic eye. -->
+  <!-- <RemoveBionicEye.jobString>Удаляет бионический глаз</RemoveBionicEye.jobString> -->
+  
+  <!-- EN: remove bionic heart -->
+  <!-- <RemoveBionicHeart.label>удалить бионическое сердце</RemoveBionicHeart.label> -->
+  <!-- EN: Remove a bionic heart. -->
+  <!-- <RemoveBionicHeart.description>Удалите бионическое сердце.</RemoveBionicHeart.description> -->
+  <!-- EN: Removing bionic heart. -->
+  <!-- <RemoveBionicHeart.jobString>Удаляет бионическое сердце</RemoveBionicHeart.jobString> -->
+  
+  <!-- EN: Remove bionic jaw -->
+  <!-- <RemoveBionicJaw.label>удалить бионическую челюсть</RemoveBionicJaw.label> -->
+  <!-- EN: Remove bionic jaw. -->
+  <!-- <RemoveBionicJaw.description>Удалите бионическую челюсть.</RemoveBionicJaw.description> -->
+  <!-- EN: Removing bionic jaw. -->
+  <!-- <RemoveBionicJaw.jobString>Удаляет бионическую челюсть</RemoveBionicJaw.jobString> -->
+  
+  <!-- EN: remove bionic leg -->
+  <!-- <RemoveBionicLeg.label>удалить бионическую ногу</RemoveBionicLeg.label> -->
+  <!-- EN: Remove a bionic leg. -->
+  <!-- <RemoveBionicLeg.description>Удалите бионическую ногу.</RemoveBionicLeg.description> -->
+  <!-- EN: Removing bionic leg. -->
+  <!-- <RemoveBionicLeg.jobString>Удаляет бионическую ногу</RemoveBionicLeg.jobString> -->
+  
+  <!-- EN: remove bionic spine -->
+  <!-- <RemoveBionicSpine.label>удалить бионический позвоночник</RemoveBionicSpine.label> -->
+  <!-- EN: Remove a bionic spine. -->
+  <!-- <RemoveBionicSpine.description>Удалите бионический позвоночник.</RemoveBionicSpine.description> -->
+  <!-- EN: Removing bionic spine. -->
+  <!-- <RemoveBionicSpine.jobString>Удаляет бионический позвоночник</RemoveBionicSpine.jobString> -->
+  
+  <!-- EN: remove bionic stomach -->
+  <!-- <RemoveBionicStomach.label>удалить бионический желудок</RemoveBionicStomach.label> -->
+  <!-- EN: Remove a bionic stomach. -->
+  <!-- <RemoveBionicStomach.description>Удалите бионический желудок.</RemoveBionicStomach.description> -->
+  <!-- EN: Removing bionic stomach. -->
+  <!-- <RemoveBionicStomach.jobString>Удаляет бионический желудок</RemoveBionicStomach.jobString> -->
+  
+  <!-- EN: remove bionic tongue -->
+  <!-- <RemoveBionicTongue.label>удалить бионический язык</RemoveBionicTongue.label> -->
+  <!-- EN: Remove a bionic tongue. -->
+  <!-- <RemoveBionicTongue.description>Удалите бионический язык.</RemoveBionicTongue.description> -->
+  <!-- EN: Removing bionic tongue. -->
+  <!-- <RemoveBionicTongue.jobString>Удаляет бионический язык</RemoveBionicTongue.jobString> -->
+  
+  <!-- EN: remove death acidifier -->
+  <!-- <RemoveDeathAcidifier.label>удалить посмертный растворитель</RemoveDeathAcidifier.label> -->
+  <!-- EN: Remove a death acidifier. -->
+  <!-- <RemoveDeathAcidifier.description>Удалите посмертный растворитель.</RemoveDeathAcidifier.description> -->
+  <!-- EN: Removing death acidifier. -->
+  <!-- <RemoveDeathAcidifier.jobString>Удаляет посмертный растворитель</RemoveDeathAcidifier.jobString> -->
   
 </LanguageData>

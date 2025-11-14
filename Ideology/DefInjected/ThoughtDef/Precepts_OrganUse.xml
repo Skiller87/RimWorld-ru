@@ -39,7 +39,7 @@
   <!-- EN: installed organ -->
   <InstalledOrgan_Abhorrent.stages.installed_organ.label>{PAWN_gender ? Вживил : Вживила} орган</InstalledOrgan_Abhorrent.stages.installed_organ.label>
   <!-- EN: I had to install an organ in someone. It's an abhorrent violation of everything I believe. -->
-  <InstalledOrgan_Abhorrent.stages.installed_organ.description>Мне пришлось вживить человеку орган. Это ужасное надругательство над всем, во что я верю!</InstalledOrgan_Abhorrent.stages.installed_organ.description>
+  <InstalledOrgan_Abhorrent.stages.installed_organ.description>Мне пришлось имплантировать человеку орган. Это ужасное надругательство над всем, во что я верю!</InstalledOrgan_Abhorrent.stages.installed_organ.description>
   
   <!-- Thought_MemorySocial, null. Label: {0}(otherPawn.LabelShort), {1}(otherPawn). LabelSocial: {PAWN}, {OTHERPAWN}. Description: {PAWN}, {OTHERPAWN}  -->
   <!-- EN: installed organ -->

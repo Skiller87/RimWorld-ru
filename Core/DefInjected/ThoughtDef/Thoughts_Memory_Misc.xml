@@ -151,6 +151,11 @@
   <Nuzzled.stages.nuzzled-0.label>ласка</Nuzzled.stages.nuzzled-0.label>
   <!-- EN: A cute animal nuzzled me. -->
   <Nuzzled.stages.nuzzled-0.description>Ко мне ласкалось милое существо.</Nuzzled.stages.nuzzled-0.description>
+  <!-- EN: nuzzled -->
+  <Nuzzled.stages.nuzzled-1.label>ласка</Nuzzled.stages.nuzzled-1.label>
+  <!-- EN: It is so cute, and supportive, and loving... I feel fulfilled and refreshed. -->
+  <Nuzzled.stages.nuzzled-1.description>Оно такое милое, заботливое и любящее... Я чувствую себя спокойно и умиротворённо.</Nuzzled.stages.nuzzled-1.description>
+
   
   <!-- Thought_MemoryObservation, null. Label: {PAWN}. LabelSocial: {PAWN}. Description: {PAWN} -->
   <!-- EN: observed corpse -->

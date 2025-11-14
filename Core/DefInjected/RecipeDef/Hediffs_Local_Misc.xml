@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: cure scaria -->
-  <CureScaria.label>вылечить агриоз</CureScaria.label>
+  <CureScaria.label>вылечить скарию</CureScaria.label>
   <!-- EN: This special medical operation cures scaria. -->
-  <CureScaria.description>Это особая медицинская процедура для исцеления агриоза.</CureScaria.description>
+  <CureScaria.description>Это особая медицинская процедура для исцеления скарии.</CureScaria.description>
   <!-- EN: Curing scaria. -->
-  <CureScaria.jobString>Лечит агриоз</CureScaria.jobString>
+  <CureScaria.jobString>Лечит скарию</CureScaria.jobString>
   <!-- EN: {0} has successfully cured {1}'s scaria. -->
-  <CureScaria.successfullyRemovedHediffMessage>{0} успешно исцеляет {1} от агриоза.</CureScaria.successfullyRemovedHediffMessage> <!-- В Recipe_RemoveHediff.ApplyOnPawn передаются неименованные строки, а не объекты. Gender-подсимвол неприменим -->
+  <CureScaria.successfullyRemovedHediffMessage>{0} успешно исцеляет {1} от скарии.</CureScaria.successfullyRemovedHediffMessage> <!-- В Recipe_RemoveHediff.ApplyOnPawn передаются неименованные строки, а не объекты. Gender-подсимвол неприменим -->
   
   <!-- EN: sterilize -->
   <Sterilize.label>стерилизовать</Sterilize.label>

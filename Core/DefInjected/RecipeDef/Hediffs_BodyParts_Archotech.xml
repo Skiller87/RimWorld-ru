@@ -4,22 +4,43 @@
   <!-- EN: install archotech arm -->
   <InstallArchotechArm.label>вживить архоруку</InstallArchotechArm.label>
   <!-- EN: Install an archotech arm. -->
-  <InstallArchotechArm.description>Вживить архоруку.</InstallArchotechArm.description>
+  <InstallArchotechArm.description>Вживите архоруку.</InstallArchotechArm.description>
   <!-- EN: Installing archotech arm. -->
   <InstallArchotechArm.jobString>Вживляет архоруку</InstallArchotechArm.jobString>
-  
+   
   <!-- EN: install archotech eye -->
   <InstallArchotechEye.label>вживить архоглаз</InstallArchotechEye.label>
   <!-- EN: Install an archotech eye. -->
-  <InstallArchotechEye.description>Вживить архоглаз.</InstallArchotechEye.description>
+  <InstallArchotechEye.description>Вживите архоглаз.</InstallArchotechEye.description>
   <!-- EN: Installing archotech eye. -->
   <InstallArchotechEye.jobString>Вживляет архоглаз</InstallArchotechEye.jobString>
   
   <!-- EN: install archotech leg -->
   <InstallArchotechLeg.label>вживить архоногу</InstallArchotechLeg.label>
   <!-- EN: Install an archotech leg. -->
-  <InstallArchotechLeg.description>Вживить архоногу.</InstallArchotechLeg.description>
+  <InstallArchotechLeg.description>Вживите архоногу.</InstallArchotechLeg.description>
   <!-- EN: Installing archotech leg. -->
   <InstallArchotechLeg.jobString>Вживляет архоногу</InstallArchotechLeg.jobString>
+  
+  <!-- EN: remove archotech arm -->
+  <!-- <RemoveArchotechArm.label>удалить архоруку</RemoveArchotechArm.label> -->
+  <!-- EN: Remove an archotech arm. -->
+  <!-- <RemoveArchotechArm.description>Удалить архоруку.</RemoveArchotechArm.description> -->
+  <!-- EN: Removing archotech arm. -->
+  <!-- <RemoveArchotechArm.jobString>Удаляет архоруку</RemoveArchotechArm.jobString> -->
+  
+    <!-- EN: remove archotech eye -->
+  <!-- <RemoveArchotechEye.label>удалить архоглаз</RemoveArchotechEye.label> -->
+  <!-- EN: Remove an archotech eye. -->
+  <!-- <RemoveArchotechEye.description>Удалить архоглаз.</RemoveArchotechEye.description> -->
+  <!-- EN: Removing archotech eye. -->
+  <!-- <RemoveArchotechEye.jobString>Удаляет архоглаз</RemoveArchotechEye.jobString> -->
+  
+    <!-- EN: remove archotech leg -->
+  <!-- <RemoveArchotechLeg.label>удалить архоногу</RemoveArchotechLeg.label> -->
+  <!-- EN: Remove an archotech leg. -->
+  <!-- <RemoveArchotechLeg.description>Удалить архоногу.</RemoveArchotechLeg.description> -->
+  <!-- EN: Removing archotech leg. -->
+  <!-- <RemoveArchotechLeg.jobString>Удаляет архоногу</RemoveArchotechLeg.jobString> -->
   
 </LanguageData>

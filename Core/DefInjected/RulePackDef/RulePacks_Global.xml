@@ -108,6 +108,9 @@
     <li>ConceptAngsty_nom->Words/Nouns/Concepts_Angsty_Nominative</li>
     <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
     <li>Community->Words/Nouns/Communities</li>
+	<li>Community_mas->Words/Nouns/Communities_mas</li>
+	<li>Community_fem->Words/Nouns/Communities_fem</li>
+	<li>Community_neo->Words/Nouns/Communities_neo</li>
     <li>Community_prep->Words/Nouns/Communities_Prepos</li>
     <li>Bodypart->Words/Nouns/Bodyparts</li>
     <li>Bodypart_pre->Words/Nouns/Bodyparts_Prepositional</li>
@@ -130,6 +133,10 @@
     <li>PersonalCharacteristic_fem->Words/Nouns/PersonalCharacteristics_fem</li>
     <li>PersonalCharacteristic_neutral->Words/Nouns/PersonalCharacteristics_neutral</li>
     <li>PersonalCharacteristic_plural->Words/Nouns/PersonalCharacteristics_plural</li>
+    <li>End_mas->WordParts/End_mas</li>
+    <li>End_fem->WordParts/End_fem</li>
+    <li>End_neo->WordParts/End_neo</li>
+    <li>End_plural->WordParts/End_plural</li>
   </GlobalUtility.rulePack.rulesFiles>
   <!-- EN:
     <li>Trans->of</li>
