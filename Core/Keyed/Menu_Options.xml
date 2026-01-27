@@ -33,7 +33,7 @@
   <!-- EN: When enabled, draw styles won't reset to the default draw style when placing new buildings or zones. -->
   <RememberDrawStyle_Tooltip>Когда включено, стили рисования не будут сбрасываться на стиль "по умолчанию" при размещении новых зданий или зон.</RememberDrawStyle_Tooltip>
   <!-- EN: Zoom switches world map layers -->
-  <ZoomSwitchLayer>Масштабирование переключает слои карты мира</ZoomSwitchLayer>
+  <ZoomSwitchLayer>Переключать слои карты мира</ZoomSwitchLayer>
   <!-- EN: When enabled, zooming out on the world map will switch to an orbital view. Zooming in will show the planet again. -->
   <ZoomSwitchLayer_Tooltip>Когда включено, отдаление карты мира переключает на орбитальный вид. При приближении снова отображается планета.</ZoomSwitchLayer_Tooltip>
   <!-- EN: Screen-edge mouse scroll -->
