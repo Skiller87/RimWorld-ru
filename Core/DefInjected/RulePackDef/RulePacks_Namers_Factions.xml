@@ -318,17 +318,17 @@
     <li>townend->вик</li>
     <li>townname_wordgen_plural->[SylE][End_plural]</li>
     <li>townname_wordgen_plural->[SylE][SylE][End_plural]</li>
-    <li>townname_wordgen_neu->[Community_neo] [of_outlanders]</li>
-    <li>townname_wordgen_neu->[SylE][End_neo]</li>
-    <li>townname_wordgen_neu->[SylE][SylE][End_neo]</li>
+    <li>townname_wordgen_neu->[Community_neutral] [of_outlanders]</li>
+    <li>townname_wordgen_neu->[SylE][End_neutral]</li>
+    <li>townname_wordgen_neu->[SylE][SylE][End_neutral]</li>
     <li>townname_wordgen_fem->[Community_fem] [of_outlanders]</li>
     <li>townname_wordgen_fem->[SylE][End_fem]</li>
     <li>townname_wordgen_fem->[SylE][SylE][End_fem]</li>
     <li>townname_wordgen_fem->[TerrainFeature_fem][End_fem]</li>
-    <li>townname_wordgen_mas->[Community_mas] [of_outlanders]</li>
-    <li>townname_wordgen_mas->[SylE][End_mas]</li>
-    <li>townname_wordgen_mas->[SylE][SylE][End_mas]</li>
-    <li>townname_wordgen_mas->[TerrainFeature_mas][End_mas]</li>
+    <li>townname_wordgen_masc->[Community_masc] [of_outlanders]</li>
+    <li>townname_wordgen_masc->[SylE][End_masc]</li>
+    <li>townname_wordgen_masc->[SylE][SylE][End_masc]</li>
+    <li>townname_wordgen_masc->[TerrainFeature_masc][End_masc]</li>
   </NamerSettlementOutlander.rulePack.rulesStrings>
   
   <!-- EN:
