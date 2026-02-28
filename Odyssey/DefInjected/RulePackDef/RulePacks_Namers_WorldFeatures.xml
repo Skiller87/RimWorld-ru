@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
   <!-- EN:
     <li>r_name(p=0.2)->[glacialPlain_adjective] [narrative_name]</li>
     <li>glacialPlain_adjective(p=2)->glacial</li>
@@ -17,10 +16,10 @@
     <li>terrain_word(p=0.3)->tract</li>
   -->
   <NamerGlacialPlain.rulePack.rulesStrings>
-    <li>r_name(p=0.2)->[glacialPlain_adjective_mas] [narrative_name_mas]</li>
-    <li>r_name(p=0.2)->[glacialPlain_adjective_fem] [narrative_name_fem]</li>
-    <li>r_name(p=0.2)->[glacialPlain_adjective_neu] [narrative_name_fem]</li>
-    <li>r_name(p=0.2)->[glacialPlain_adjective_plural] [narrative_name_plural]</li>
+    <li>r_name(p=0.2)->[glacialPlain_adjective_mas] [narrative_name_wasteland_mas]</li>
+    <li>r_name(p=0.2)->[glacialPlain_adjective_fem] [narrative_name_wasteland_fem]</li>
+    <li>r_name(p=0.2)->[glacialPlain_adjective_neu] [narrative_name_wasteland_neu]</li>
+    <li>r_name(p=0.2)->[glacialPlain_adjective_plural] [narrative_name_wasteland_plural]</li>
     <li>glacialPlain_adjective_mas(p=2)->ледниковый</li>
     <li>glacialPlain_adjective_fem(p=2)->ледниковая</li>
     <li>glacialPlain_adjective_plural(p=2)->ледниковые</li>
@@ -49,7 +48,6 @@
     <li>terrain_word_mas(p=0.3)->простор</li>
     <li>terrain_word_mas(p=0.3)->тракт</li>
   </NamerGlacialPlain.rulePack.rulesStrings>
-  
   <!-- EN:
     <li>r_name(p=0.3)->[glowForest_adjective] [narrative_name]</li>
     <li>glowForest_adjective(p=2)->fungal</li>
@@ -64,10 +62,9 @@
     <li>terrain_word->dark forest</li>
   -->
   <NamerGlowforest.rulePack.rulesStrings>
-    <li>r_name(p=0.3)->[glowForest_adjective_mas] [narrative_name_mas]</li>
-    <li>r_name(p=0.3)->[glowForest_adjective_fem] [narrative_name_fem]</li>
-    <li>r_name(p=0.3)->[glowForest_adjective_neu] [narrative_name_fem]</li>
-    <li>r_name(p=0.3)->[glowForest_adjective_plural] [narrative_name_plural]</li>
+    <li>r_name(p=0.3)->[glowForest_adjective_mas] [narrative_name_forest_mas]</li>
+    <li>r_name(p=0.3)->[glowForest_adjective_fem] [narrative_name_forest_fem]</li>
+    <li>r_name(p=0.3)->[glowForest_adjective_plural] [narrative_name_forest_plural]</li>
     <li>glowForest_adjective_mas(p=2)->грибной</li>
     <li>glowForest_adjective_fem(p=2)->грибная</li>
     <li>glowForest_adjective_plural(p=2)->грибные</li>
@@ -94,7 +91,6 @@
     <li>terrain_word_mas->темноземье</li>
     <li>terrain_word_mas->темный лес</li>
   </NamerGlowforest.rulePack.rulesStrings>
-  
   <!-- EN:
     <li>r_name(p=0.3)->[grasslands_adjective] [narrative_name]</li>
     <li>grasslands_adjective(p=2)->flat</li>
@@ -110,10 +106,8 @@
     <li>terrain_word->flats</li>
   -->
   <NamerGrasslands.rulePack.rulesStrings>
-    <li>r_name(p=0.3)->[grasslands_adjective_mas] [narrative_name_mas]</li>
-    <li>r_name(p=0.3)->[grasslands_adjective_fem] [narrative_name_fem]</li>
-    <li>r_name(p=0.3)->[grasslands_adjective_neu] [narrative_name_fem]</li>
-    <li>r_name(p=0.3)->[grasslands_adjective_plural] [narrative_name_plural]</li>
+    <li>r_name(p=0.3)->[grasslands_adjective_fem] [narrative_name_grassland_fem]</li>
+    <li>r_name(p=0.3)->[grasslands_adjective_plural] [narrative_name_grassland_plural]</li>
     <li>grasslands_adjective_mas(p=2)->ровный</li>
     <li>grasslands_adjective_fem(p=2)->ровная</li>
     <li>grasslands_adjective_plural(p=2)->ровные</li>
@@ -134,14 +128,7 @@
     <li>grasslands_adjective_fem->бескрайняя</li>
     <li>grasslands_adjective_plural->бескрайние</li>
     <li>grasslands_adjective_neu->бескрайнее</li>
-    <li>terrain_word_plural(p=2)->луга</li>
-    <li>terrain_word_plural(p=2)->прерии</li>
-    <li>terrain_word_plural(p=2)->равнины</li>
-    <li>terrain_word_fem->саванна</li>
-    <li>terrain_word_fem->степь</li>
-    <li>terrain_word_fem->низменность</li>
   </NamerGrasslands.rulePack.rulesStrings>
-  
   <!-- EN:
     <li>r_name(p=0.3)->[lavaField_adjective] [narrative_name]</li>
     <li>lavaField_adjective(p=2)->volcanic</li>
@@ -192,7 +179,6 @@
     <li>terrain_word_neu->инферно</li>
     <li>terrain_word_mas->хребет</li>
   </NamerLavaField.rulePack.rulesStrings>
-  
   <!-- EN:
     <li>r_name(p=0.2)->[ruin_adjective] [narrative_name]</li>
     <li>r_name(p=0.2)->the [narrative_name] [terrain_word]</li>
@@ -257,5 +243,4 @@
     <li>terrain_word_plural->земли</li>
     <li>terrain_word_mas->бастион</li>
   </NamerScarlands.rulePack.rulesStrings>
-  
 </LanguageData>
