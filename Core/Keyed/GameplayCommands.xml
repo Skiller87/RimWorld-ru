@@ -117,7 +117,6 @@
   <CommandHidePlanDesc>Отображение планировки.\n\nЧтобы скрыть или показать все области, нажмите правую кнопку мыши.</CommandHidePlanDesc>
   <!-- EN: Hide/unhide this zone.\n\nRight-click to hide or unhide all zones. -->
   <CommandHideZoneDesc>Скрыть/показать область.\n\nЧтобы скрыть или показать все области, нажмите правую кнопку мыши.</CommandHideZoneDesc>
-  <CommandHideZoneDesc>Скрыть/показать область.\n\Чтобы скрыть или показать все области, нажмите правую кнопку мыши.</CommandHideZoneDesc>
   
   <!-- EN: Show all zones -->
   <ShowAllZones>Показать все области</ShowAllZones>

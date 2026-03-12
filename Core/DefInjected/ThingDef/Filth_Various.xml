@@ -55,7 +55,7 @@
   <Filth_OilSmear.label>масляное пятно</Filth_OilSmear.label>
   
   <!-- UNUSED -->
-  <Filth_RevenantBlood.label>кровь ревенанта</Filth_RevenantBlood.label>
+  <!--<Filth_RevenantBlood.label>кровь ревенанта</Filth_RevenantBlood.label> -->
   
   <!-- EN: building rubble -->
   <Filth_RubbleBuilding.label>строительный мусор</Filth_RubbleBuilding.label>
